@@ -1,0 +1,29 @@
+baseurl = "http://gogo.tattoo/gogo/"
+languageCode = "en-us"
+title = "ʕ•ᴥ•ʔ gogo.tattoo"
+name = "gogo.tattoo"
+copyright = "gogo.tattoo"
+googleAnalytics = "UA-79234406-1"
+versionName = "0.0.1-alpha"
+versionCode = 0
+
+[params]
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+[params.profile]
+  avatar = "images/strawberry.jpg"
+  description = "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
+  experience = "8+ years (since 2008)"
+  location = "Shanghai"
+  origin = "Shanghai"
+
+# Navigation
+[params.navigation]
+  brand = "gogo @ gogo tattoo  (Alpha)"
+
+  [params.navigation.links]
+    about     = "nav.about"
+    services  = "nav.services"
+    portfolio = "nav.portfolio"
+    contact   = "nav.contact"

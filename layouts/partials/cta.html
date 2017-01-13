@@ -1,0 +1,12 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside class="bg-dark">
+    <div class="container text-center">
+        <div class="call-to-action">
+            {{ with .Site.Params.cta.headline }}<h2>{{ i18n . }}</h2>{{ end }}
+            {{ with .Site.Params.cta.explanation }}<p>{{ i18n . }}</p>{{ end }}
+            {{ if and .Site.Params.cta.button.link .Site.Params.cta.button.text }}
+                <a href="{{ .Site.Params.cta.button.link }}" class="btn btn-default btn-xl wow tada">{{ i18n .Site.Params.cta.button.text }}</a>
+            {{ end }}
+        </div>
+    </div>
+</aside>

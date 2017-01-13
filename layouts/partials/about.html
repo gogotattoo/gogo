@@ -1,0 +1,24 @@
+{{ "<!-- ABOUT -->" | safeHTML }}
+<section class="bg-primary" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                {{ with .Site.Params.about.headline }}
+                    <h2 class="section-heading">{{ i18n . }}</h2>
+                {{ end }}
+                {{ with .Site.Params.about.subtitle }}
+                    <h3 class="section-heading">{{ i18n . }}</h3>
+                {{ end }}
+                {{ if and .Site.Params.about.headline .Site.Params.about.description }}
+                    <hr class="light">
+                {{ end }}
+                {{ with .Site.Params.about.description }}
+                    <p class="text-faded">{{ i18n . | markdownify }}</p>
+                {{ end }}
+                {{ with .Site.Params.about.buttonText }}
+                    <a href="#" class="btn btn-default btn-xl">{{ i18n . }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>

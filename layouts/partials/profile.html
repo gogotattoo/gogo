@@ -1,0 +1,24 @@
+<section id="profile" class="container">
+  <div class="row">
+    <div id="avatar" class="col-md-12 col-lg-12 center-block">
+      <a href="{{ .Site.BaseURL }}">
+        <img class="center-block" src="{{ .Site.BaseURL }}{{ .Site.Params.profile.avatar }}"/>
+      </a>
+    </div>
+  </div>
+  <div class="row profile-header">
+    <div class="col-md-12 col-lg-12">{{ .Site.Params.profile.name }}</div>
+  </div>
+  <div class="row profile-location">
+    <div class="col-12 col-lg-12">In {{ .Site.Params.profile.location }} now</div>
+  </div>
+  <div class="row profile-origin">
+    <div class="col-12 col-lg-12">From {{ .Site.Params.profile.origin }}</div>
+  </div>
+  <div class="row profile-experience">
+    <div class="col-12 col-lg-12">Experience:</br>{{ .Site.Params.profile.experience }}</div>
+  </div>
+  <div class="row profile-description">
+    <div class="col-12 col-lg-12">{{ .Site.Params.profile.description }}</div>
+  </div>
+</section>
