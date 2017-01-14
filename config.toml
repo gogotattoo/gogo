@@ -11,6 +11,9 @@ versionCode = 0
 # The path must be relative to the static folder
 favicon = "favicon.ico"
 
+[taxonomies]
+  tag = "tags"
+
 [params.profile]
   avatar = "images/strawberry.jpg"
   description = "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."

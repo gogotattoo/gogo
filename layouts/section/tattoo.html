@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-    <head>
-        {{ partial "head.html" . }}
-    </head>
-    <body id="page-top">
-        {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
-            {{ partial "nav.html" . }}
-        {{ end }}
-
+{{ partial "header.html" . }}
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -16,6 +7,7 @@
 						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 
 						<main role="main">
+              {{ partial "tags.html" . }}
               <div id="tattoo-wrapper">
                  <div id="tattoo-columns-single">
 					          {{ range .Data.Pages }}
@@ -40,26 +32,6 @@
 	</div>
 	</div>
 	</div>
-
-	{{ if .Site.Data.projects }}
-	{{ partial "posts.html" . }}
-	{{ end }}
-
-	{{ if .Site.Params.location }}
-	{{ partial "location.html" . }}
-	{{ end }}
-
-	{{ if .Site.Params.cta }}
-	{{ partial "cta.html" . }}
-	{{ end }}
-
-	{{ if .Site.Params.contact }}
-	{{ partial "contact.html" . }}
-	{{ end }}
-
-	{{ if .Site.Data.projects }}
-	{{ partial "modals.html" . }}
-	{{ end }}
 
 	{{ partial "js.html" . }}
 
