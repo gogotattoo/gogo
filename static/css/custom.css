@@ -67,7 +67,7 @@ figure {
 
 #profile {
   position: fixed;
-  margin: 50px;
+  margin: 0px;
   max-width: 200px;
   margin-top: 100px;
   margin-left: auto;
@@ -207,9 +207,11 @@ article {
 	column-count: 3;
 	column-gap: 15px;
 	column-fill: auto;
+  padding-top: 50px;
 }
 
 #tattoo-columns-single {
+  padding-top: 50px;
 	-webkit-column-count: 1;
 	-webkit-column-gap: 10px;
 	-webkit-column-fill: auto;
