@@ -60,5 +60,6 @@
 
     $('ul.tags').randomize();
     $('ul.tags li').hide().slice(0, 9).show();
+    $('ul.tags').fadeIn().css("display","inline-block");
 
 })(jQuery); // End of use strict
