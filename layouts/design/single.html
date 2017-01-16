@@ -16,6 +16,9 @@
 						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 							 <main role="main">
 								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
+                 {{ if .Params.tattoos }}
+                  <a href="{{ $.Site.BaseURL }}tattoo/{{ index .Params.tattoos 0 }}"><h2 class="design-link">See one of the finished works here.</h2></a>
+                 {{ end }}
 								 <section itemprop="entry-text">
 									 {{ .Content }}
                  <div id="tattoo-wrapper">
