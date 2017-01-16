@@ -82,7 +82,7 @@ p {
 }
 
 section {
-    padding: 40px 0;
+    padding: 10px 0;
 }
 
 aside {
@@ -155,7 +155,8 @@ aside {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,.7);
+        /*color: rgba(255,255,255,.7);*/
+        color: #f05f40;
     }
 
     .navbar-default .nav > li>a:hover,
@@ -188,6 +189,11 @@ aside {
         color: #f05f40;
     }
 }
+
+.navbar-left {
+    margin-left: 125px;
+}
+
 
 header {
     position: relative;

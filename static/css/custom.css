@@ -290,6 +290,10 @@ article {
     margin-top: 2em;
 }
 
+.design-link {
+    text-align: center;
+}
+
 .tags {
   display: inline-block;
 	margin:0;

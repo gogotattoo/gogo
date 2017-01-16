@@ -16,9 +16,6 @@
 						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 							 <main role="main">
 								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
-                 {{ with .Params.design }}
-                  <a href="{{ $.Site.BaseURL }}design/{{ . }}"><h2 class="design-link">Design of this tattoo is available here.</h2></a>
-                 {{ end }}
 								 <section itemprop="entry-text">
 									 {{ .Content }}
                  <div id="tattoo-wrapper">

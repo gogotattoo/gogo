@@ -1,5 +1,5 @@
 +++
-images = ["rose_mandala/rose_mandala_pr0",
+images = [
 "rose_mandala/rose_mandala_pr1",
 "rose_mandala/rose_mandala_pr2",
 "rose_mandala/rose_mandala_pr3",
@@ -35,5 +35,6 @@ tags = [
   "mandala",
 ]
 image = "rose_mandala/rose_mandala_final"
+design = "rose_mandala"
 
 +++

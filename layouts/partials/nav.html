@@ -3,19 +3,25 @@
     <div class="container-fluid">
         {{ "<!-- Brand and toggle get grouped for better mobile display -->" | safeHTML }}
         <div class="navbar-header">
-            <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-            </button> -->
+            </button>
             {{ with .Site.Params.navigation.brand }}
                 <a class="navbar-brand page-scroll" href="{{ $.Site.BaseURL }}">{{ . | markdownify }}</a>
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav navbar-left">
+              <li>
+                <a class="page-scroll" href="{{ "/tattoo" | relURL }}">Tattoo</a>
+              </li>
+              <li>
+                <a class="page-scroll" href="{{ "/design" | relURL }}">Design</a>
+              </li>
                 {{ if and .Site.Params.about .Site.Params.navigation.links.about }}
                     <li>
                         <a class="page-scroll" href="#about">{{ i18n .Site.Params.navigation.links.about }}</a>
@@ -26,11 +32,9 @@
                         <a class="page-scroll" href="#services">{{ i18n .Site.Params.navigation.links.services }}</a>
                     </li>
                 {{ end }}
-                <!-- {{ if and .Site.Data.projects .Site.Params.navigation.links.portfolio }}
-                    <li>
-                        <a class="page-scroll" href="#portfolio">{{ i18n .Site.Params.navigation.links.portfolio }}</a>
-                    </li>
-                {{ end }} -->
+
+                <a class="page-scroll" href="#portfolio">{{ i18n .Site.Params.navigation.links.portfolio }}</a>
+
                 {{ if and .Site.Params.location .Site.Params.navigation.links.location }}
                 <li>
                     <a class="page-scroll" href="#location">{{ i18n .Site.Params.navigation.links.location }}</a>

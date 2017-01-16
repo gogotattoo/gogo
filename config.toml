@@ -23,7 +23,7 @@ favicon = "favicon.ico"
 
 # Navigation
 [params.navigation]
-  brand = "gogo @ gogo tattoo  (Alpha)"
+  brand = "gogo@gogo.tattoo (alpha)"
 
   [params.navigation.links]
     about     = "nav.about"
