@@ -17,8 +17,25 @@
      return this;
  };
 
+ function zoomImage()
+ {
+     $("body").css("background-image","url('images/test.png')"); // Onclick of button the background image of body will be test here. Give the image path in url
+     $('#clickbutton').hide(); //This will hide the button specified in html
+ }
+
 (function($) {
     "use strict"; // Start of use strict
+
+    $('#Fullscreen').css('height', $(document).outerWidth() + 'px');
+        //for when you click on an image
+    $('.tattoo-image').click(function () {
+        var src = $(this).attr('src'); //get the source attribute of the clicked image
+        $('#Fullscreen img').attr('src', src); //assign it to the tag for your fullscreen div
+        $('#Fullscreen').fadeIn();
+    });
+    $('#Fullscreen').click(function () {
+        $(this).fadeOut(); //this will hide the fullscreen div if you click away from the image.
+    });
 
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {

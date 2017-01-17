@@ -358,6 +358,24 @@ article {
   	box-shadow:-1px -1px 2px #f07090;
 	}
 
-  #tag-active {
-    text-decoration: underline;
-  }
+#tag-active {
+  text-decoration: underline;
+}
+
+#Fullscreen {
+ width: 100%;
+ display: none;
+ position:fixed;
+ top:0;
+ right:0;
+ bottom:0;
+ left:0;
+
+}
+
+#Fullscreen img {
+  width:100%;
+  height:auto
+  display: block;
+  margin: 0 auto;
+}

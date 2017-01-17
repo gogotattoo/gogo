@@ -28,6 +28,7 @@
 		              				<div class="pin">
 														<figure>
 															<img class="tattoo-image"
+                                onclick="zoomImage()"
 																src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg"
 																alt="{{ $.Title }}">
 														</figure>
@@ -38,6 +39,7 @@
   	              				<div class="pin">
   													<figure>
   														<img class="tattoo-image"
+                                onclick="zoomImage()"
   															src="https://gateway.ipfs.io/ipfs/{{ . }}"
   															alt="{{ $.Title }}">
   													</figure>
@@ -46,9 +48,9 @@
 			              	<div class="pin">
 												<figure>
                           {{ if .Params.image_ipfs }}
-                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
                           {{ else }}
-                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
                           {{ end }}
 												</figure>
 											</div>
@@ -67,7 +69,9 @@
 							</div>
 						</div>
 					</div>
-
+          <div id="Fullscreen">
+            <img src="" alt="" />
+          </div>
 
 
 	{{ partial "js.html" . }}
