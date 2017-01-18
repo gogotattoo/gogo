@@ -11,7 +11,7 @@ tags = [
 ]
 made_at_shop = "chushangfeng"
 images_ipfs = [
-  "QmQjXFKpACuAbokBcuBGuYzqwBp39GmBrK1XiTTnYqpq3w",
+  "QmaKAnNGFUUsj3yrz8kVV9cw7oSoXLTYk8sM17TgbWZ4CX",
   "QmNve91XN7XrbtQw5wjv1YY8QAxZFD6DcYdqDCUhsayup5",
   "QmSF96pd8yx8Zod9quFL7oLNj18dxF6jK6LPSg44C9Px3T",
   "QmdGeY4h6JejZmaGERBDx4s47S6CgfDEvVbe1QCQdmf2Ei",

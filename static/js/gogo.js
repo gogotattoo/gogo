@@ -19,8 +19,11 @@
 
  function zoomImage()
  {
-     $("body").css("background-image","url('images/test.png')"); // Onclick of button the background image of body will be test here. Give the image path in url
-     $('#clickbutton').hide(); //This will hide the button specified in html
+   // There's a small disagreement in the community if we need this funcion or not,
+   // It's not finished yet: quite buggy.
+   // So will temporary disable it.
+     //$("body").css("background-image","url('images/test.png')"); // Onclick of button the background image of body will be test here. Give the image path in url
+     //$('#clickbutton').hide(); //This will hide the button specified in html
  }
 
 (function($) {
