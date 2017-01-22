@@ -15,9 +15,8 @@ possible_bodypart = [
   "arm",
   "chest",
   "leg",
-  "forehead",
 ]
 image_ipfs = "QmTXUykL7HcG6JjzdjseYfzq7HPvhqcWWuGmFk8S9mYP17"
 title = "Pan's compass"
-
+tattoos = ["pans_compass"]
 +++
