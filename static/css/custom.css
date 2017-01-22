@@ -379,3 +379,7 @@ article {
   display: block;
   margin: 0 auto;
 }
+
+.container-fluid {
+  max-width: 1300px;
+}
