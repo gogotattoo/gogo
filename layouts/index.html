@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+ {{ partial "header.html" . }}
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -14,7 +14,7 @@
 											<a href="{{ .RelPermalink }}">
 												<figure>
                           {{ if .Params.image_ipfs }}
-                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+                            <span data-src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image fadeIn"/>
                           {{ else }}
 										        <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
                           {{ end }}
