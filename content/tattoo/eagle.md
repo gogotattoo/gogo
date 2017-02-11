@@ -8,6 +8,7 @@ made_at_shop = "chushangfeng"
 tags = [
   "color",
   "bird",
+  "eagle"
 ]
 bodypart = [
   "shoulder",
