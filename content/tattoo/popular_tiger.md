@@ -30,5 +30,5 @@ date = "2017-02-02T10:31:12+08:00"
 title = "Popular tiger"
 
 +++
---------
+----
 His [sweetheart](/gogo/tags/sweetheart) visited our shop a day before [for the popular deer](/gogo/tattoo/popular_deer).
