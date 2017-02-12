@@ -83,19 +83,19 @@
     $('ul.tags li').hide().slice(0, 9).show();
     $('ul.tags').fadeIn().css("display","inline-block");
 
-    $(".fadeIn").each(function() {
-         var src = $(this).data("src");
-         if (src) {
-             var img = new Image();
-             var card = $(this).parent().parent().parent();
-             img.style.display = "none";
-             img.onload = function() {
-                 $(this).fadeIn(1000);
-                 card.fadeIn(500);
-             };
-             $(this).append(img);
-             img.src = src;
-
-         }
-     });
+    // $(".fadeIn").each(function() {
+    //      var src = $(this).data("src");
+    //      if (src) {
+    //          var img = new Image();
+    //          var card = $(this).parent().parent().parent();
+    //          img.style.display = "none";
+    //          img.onload = function() {
+    //              $(this).fadeIn(1000);
+    //              card.fadeIn(500);
+    //          };
+    //          $(this).append(img);
+    //          img.src = src;
+    //
+    //      }
+    //  });
 })(jQuery); // End of use strict

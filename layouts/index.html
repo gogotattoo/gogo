@@ -14,7 +14,7 @@
 											<a href="{{ .RelPermalink }}">
 												<figure>
                           {{ if .Params.image_ipfs }}
-                            <span data-src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image fadeIn"/>
+                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image fadeIn"/>
                           {{ else }}
 										        <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
                           {{ end }}
