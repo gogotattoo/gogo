@@ -9,39 +9,13 @@ images_ipfs = [  "QmbeyxmtqmLRfhTH3oTDrrwpTpkqYsewqUS3b7x5FpZD3x",
 ]
 
 bodypart = [
-  "feet",
-  "shoulder",
-  "back",
-  "hand",
   "arm",
-  "chest",
-  "leg",
 ]
 extra = ""
 duration_mins = 30
 tags = [
-  "coloring",
-  "watercolor",
-  "cover",
-  "scarcover",
-  "color",
-  "freehand",
-  "black and gray",
-  "bird",
-  "animal",
-  "dragon",
-  "flower",
-  "koi",
-  "lotus",
   "stars",
-  "butterfly",
-  "skull",
-  "cat",
-  "colorful",
-  "simplicity",
-  "crazy",
-  "couple",
-  "planet",
+  "planets",
 ]
 image_ipfs = "QmTkjwnyKBdm7hSfaqb3XK1WzkSvchDn7rngpx6ZQeqPFS"
 made_date = "2017-02-13T10:31:05+08:00"
@@ -53,6 +27,6 @@ title = "Planets"
 +++
 <p style="text-align: center;">
 
-Our first henna experiment.
+Our first henna experiments.
 
 </p>

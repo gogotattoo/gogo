@@ -16,7 +16,7 @@ tattoodate = "2017-02-12T10:31:05+08:00"
 gender = "female"
 location_city = "Shanghai"
 extra = ""
-date = "2017-02-13T17:17:04+08:00"
+date = "2017-02-12T17:17:04+08:00"
 tags = [
   "color",
   "flower",
