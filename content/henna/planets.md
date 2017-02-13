@@ -51,5 +51,8 @@ location_country = "China"
 title = "Planets"
 
 +++
+<p style="text-align: center;">
 
-Our first henna experiments.
+Our first henna experiment.
+
+</p>
