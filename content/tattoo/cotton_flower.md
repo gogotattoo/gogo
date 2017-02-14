@@ -14,7 +14,6 @@ images_ipfs = [
   "QmZW8evwdWaYxD6guKwdxMfxnWnGPqCmDB1XH23rGMvpwF",
   "QmXzumfsrqBArtTwqRBiURnSzDKJULi1eCKMnX78KL7nge",
   "QmcdNqKhKnpzCKcE9Amkj4rd5iryWkdnFCeYJFfhxPyc8u",
-  "QmdNs3qnyzz3r4ubWvHMRNvQ7HjnpZJjjuWNVbVocbNXHE",
 ]
 location_country = "China"
 made_at_shop = "chushangfeng"
