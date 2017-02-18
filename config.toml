@@ -8,8 +8,10 @@ googleAnalytics = "UA-79234406-1"
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"
-versionName = "0.0.2-alpha"
-versionCode = 1
+
+[params.version]
+  name = "0.0.2-alpha"
+  code = 1
 
 
 [taxonomies]
@@ -32,7 +34,7 @@ versionCode = 1
 
 # Navigation
 [params.navigation]
-  brand = "gogo@gogo.tattoo (alpha)"
+  brand = "gogo@gogo.tattoo"
 
   [params.navigation.links]
     about     = "nav.about"
