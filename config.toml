@@ -4,12 +4,13 @@ title = "ʕ•ᴥ•ʔ gogo.tattoo"
 name = "gogo.tattoo"
 copyright = "gogo.tattoo"
 googleAnalytics = "UA-79234406-1"
-versionName = "0.0.1-alpha"
-versionCode = 0
 
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"
+versionName = "0.0.2-alpha"
+versionCode = 1
+
 
 [taxonomies]
   tag = "tags"
@@ -21,6 +22,14 @@ favicon = "favicon.ico"
   location = "Shanghai"
   origin = "Shanghai"
 
+  [params.profile.contact]
+    chat = "contact.chat"
+    email = "contact.email"
+    wechat = "contact.wechat"
+    line = "contact.line"
+    # ... and so on...
+    # TODO: maybe there's a better way to organize it?
+
 # Navigation
 [params.navigation]
   brand = "gogo@gogo.tattoo (alpha)"
@@ -29,4 +38,3 @@ favicon = "favicon.ico"
     about     = "nav.about"
     services  = "nav.services"
     portfolio = "nav.portfolio"
-    contact   = "nav.contact"

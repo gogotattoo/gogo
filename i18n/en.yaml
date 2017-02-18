@@ -5,3 +5,8 @@
   translation: "Recognition for artists, trust for clients, authenticity for tattoos"
 - id: main.buttonText
   translation: "Learn more"
+
+- id: contact.email
+  translation: "gogo@gogo.tattoo"
+- id: contact.chat
+  translation: "yana"

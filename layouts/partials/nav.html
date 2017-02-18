@@ -15,6 +15,11 @@
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a id="contact_form_toggle" href="#contact_form_toggle">Contact me</a>
+              </li>
+            </ul>
             <ul class="nav navbar-nav navbar-left">
               <li>
                 <a class="page-scroll" href="{{ "/tattoo" | relURL }}">Tattoo</a>
@@ -48,7 +53,7 @@
                 {{ end }}
                 {{ if and .Site.Params.contact .Site.Params.navigation.links.contact }}
                     <li>
-                        <a class="page-scroll" href="#contact">{{ i18n .Site.Params.navigation.links.contact }}</a>
+                        <a class="contact_form" href="#contact">{{ i18n .Site.Params.navigation.links.contact }}</a>
                     </li>
                 {{ end }}
             </ul>
