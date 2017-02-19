@@ -1,0 +1,17 @@
+[0.0.3-alpha]
+ + Starting this CHANGELOG
+ + Improved contact form
+ + Steemit verification
+
+[0.0.2-alpha]
+  * refactoring,
+  + page versioning
+  + contact form
+  + more tags
+
+[0.0.1-alpha]
+  + design, henna and piercing sections
+  + tags
+  + ipfs support [and recommended to use]
+  + tattoo section
+  + basic static buildable distributable hugo site for artists
