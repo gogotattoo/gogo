@@ -1,4 +1,4 @@
-baseurl = "http://gogo.tattoo/gogo/"
+baseurl = "https://gogotattoo.github.io/gogo/"
 languageCode = "en-us"
 title = "ʕ•ᴥ•ʔ gogo.tattoo"
 name = "gogo.tattoo"
@@ -12,7 +12,6 @@ favicon = "favicon.ico"
 [params.version]
   name = "0.0.3-alpha"
   code = 3
-
 
 [taxonomies]
   tag = "tags"
