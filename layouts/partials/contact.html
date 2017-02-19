@@ -1,44 +1,24 @@
 {{ "<!-- CONTACT -->" | safeHTML }}
-<section id="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                {{ with .Site.Params.contact.headline }}
-                    <h2 class="section-heading">{{ i18n . }}</h2>
-                {{ end }}
-                {{ if and .Site.Params.contact.headline .Site.Params.contact.description }}
-                    <hr class="primary">
-                {{ end }}
-                {{ with .Site.Params.contact.description }}
-                    <p>{{ i18n . | markdownify }}</p>
-                {{ end }}
-            </div>
-          </div>
-              <div class="row">
-            {{ if .Site.Params.contact.phone }}
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p>{{ .Site.Params.contact.phone }}</p>
-                </div>
-            {{ end }}
-            {{ if .Site.Params.contact.slack }}
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-slack fa-3x wow bounceIn"></i>
-                    <p><a href="{{ .Site.Params.contact.slack }}" target="_blank">Join our Slack!</a></p>
-                </div>
-            {{ end }}
-            {{ if .Site.Params.contact.twitter }}
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-twitter fa-3x wow bounceIn"></i>
-                    <p><a href="{{ .Site.Params.contact.twitter }}" target="_blank">Follow us on Twitter!</a></p>
-                </div>
-            {{ end }}
-            {{ if .Site.Params.contact.email }}
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:{{ .Site.Params.contact.email }}">{{ .Site.Params.contact.email }}</a></p>
-                </div>
-            {{ end }}
-        </div>
+<div id="contact" class="container-fluid">
+  <div class="row">
+    <!-- <div class="col-3"></div> -->
+    <div class="col-lg-6 wow bounceIn">
+        {{ partial "contact_form.html" . }}
     </div>
-</section>
+    <div class="col-lg-3 text-center" id="other-contacts">
+      {{ with .Site.Params.profile.contact.steemit }}
+          <p class="wow bounceIn">steemit: <a href="https://steemit.com/@{{ . | i18n }}" target="_blank">@{{ . | i18n }}</a></p>
+      {{ end }}
+      {{ with .Site.Params.profile.contact.twitter }}
+          <p class="wow bounceIn">twitter: <a href="https://twitter.com/{{ . | i18n  }}" target="_blank">{{ . | i18n  }}</a></p>
+      {{ end }}
+      {{ with .Site.Params.profile.contact.email }}
+          <p class="wow bounceIn">email: <a href="mailto:{{ . | i18n }}">{{ . | i18n}}</a></p>
+      {{ end }}
+      {{ with .Site.Params.profile.contact.wechat_qr }}
+        <h5 class="wow bounceIn">Join my public WeChat group:</h5>
+          <p class="wow bounceIn"><img src="https://gateway.ipfs.io/ipfs/{{ . | i18n }}" alt="guess what" width="250px" height="250px"/></p>
+      {{ end }}
+    </div>
+  </div>
+</div>

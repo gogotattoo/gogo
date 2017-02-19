@@ -6,7 +6,17 @@
 - id: main.buttonText
   translation: "Learn more"
 
+
+- id: contact.headline
+  translation: "Follow my public groups"
+- id: contact.description
+  translation: ""
+
 - id: contact.email
   translation: "gogo@gogo.tattoo"
 - id: contact.chat
   translation: "yana"
+- id: contact.steemit
+  translation: "gogotattoo"
+- id: contact.wechat_qr
+  translation: "Qmaq7Z3pTdQ2u4D37cjex2Hnrb7CgWXwQEip29mGuf851i"

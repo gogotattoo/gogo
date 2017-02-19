@@ -27,8 +27,11 @@ favicon = "favicon.ico"
   [params.profile.contact]
     chat = "contact.chat"
     email = "contact.email"
-    wechat = "contact.wechat"
+    wechat_qr = "contact.wechat_qr"
     line = "contact.line"
+    steemit = "contact.steemit"
+		headline = "contact.headline"
+		description = "contact.description"
     # ... and so on...
     # TODO: maybe there's a better way to organize it?
 
@@ -40,3 +43,4 @@ favicon = "favicon.ico"
     about     = "nav.about"
     services  = "nav.services"
     portfolio = "nav.portfolio"
+    # Contact section
