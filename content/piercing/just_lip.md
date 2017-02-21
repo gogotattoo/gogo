@@ -14,5 +14,12 @@ location_city = "Shanghai"
 location_country = "China"
 extra = ""
 date = "2017-02-17T18:42:15+08:00"
+title = "Just a lip"
 
 +++
+
+Oh, my lovely client. She was one of my tattoo clients,
+way before gogo.tattoo even launched:
+<center>
+[gogo/tattoo/purple_flower](/gogo/tattoo/purple_flower)
+</center>
