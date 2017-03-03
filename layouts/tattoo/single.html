@@ -46,6 +46,14 @@
 											</div>
 			              </div>
                   </div>
+                  <div class="dates">
+                      <div class="made_date">
+                        Tattoo: {{ .Params.tattoodate }}
+                      </div>
+                      <div class="publish_date">
+                        Published: {{ .Date }}
+                      </div>
+                  </div>
                   <ul class="tags">
                     {{ range .Params.tags }}
                       <li>
