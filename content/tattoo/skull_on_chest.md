@@ -14,24 +14,24 @@ tags = [
   "skull",
 ]
 gender = "male"
-images_ipfs = [
-  "QmNZYkbQdYowqEA6Yyq6nr1uRbRpr1TPXzbzKHNPgbwQd7",
-  "QmQBdK1AjWV39HeFSDy5q47v5ZJHr5WsD5LzmUSp8nrnfK",
-  "QmQL2TqC8cFbxB4nCP3f1sUuicUYrxtRk5Lw7RFUk3QNNN",
-  "QmXWZg2vmWUhrH1FBB3uHPeeUzrQZ4FyZB5iLLTp3iohTX",
-  "QmTyz422y7f5GcnuSJGUdV7BpeadFHrN8zjj6tLCePFYDe",
-  "QmaARU64AmwPAw1t396SbRMgvPofHW2k4ST7pY1EKSW91j",
-  "QmNg7a1mVUjp3AXvkKcRqJR7baQtg5WLMb1A3TYcnRm5BJ",
+images_ipfs = [  "QmfEiok8QbTSPXsteYnXxEEztSJqCr6qDE6HPJki4v9LkX",
+  "QmY45tfmbDh4TkKY5xsrDmCfD9Kt6Rd4r6z91o4py1NTDf",
+  "QmcLSNX3gTW69iZTcfAfufPgjTSwtmKgkRBiienvdp66NV",
+  "QmVMMAwx1SPjVnNhjdvsG4XiDpWnFLM2vChf7gidGVdyNg",
+  "QmSoEvydtjvmMNVmYGMPvXnuGQwaU2JWMncEawSbtsVeLT",
+  "QmSHp9QU46tSZDrWstQ1ENZkwY5bsGtrkzmkDV8YwLymHs",
+  "QmT9dZCqCpzKdoPe5GMdcJTeBm6u6WoVpAmReqNn4Gji9D",
+  "QmSVNwvXoo1ouRauuXHimWpSfKzc6KAqyohE82WB4qRuUM",
 ]
 location_country = "China"
 tattoodate = "2016-12-27T00:07:11+08:00"
 bodypart = [
   "chest",
 ]
-image = "skull_on_chest_final"
+image_ipfs = "QmUKyHQq3EBuSZi92ZshQpPDzRC9HuHoLfLkhMMY87rE3Y"
 location_city = "Shanghai"
 
 +++
 
-The skull was designed by his girlfriend, who [got a tattoo](/gogo/tattoo/rose_mondala) from us less than two weeks ago.
+The skull was designed by his girlfriend, who [got a tattoo](/gogo/tattoo/rose_mandala) from us less than two weeks ago.
 After the healing, we can consider more coloring. There's a freedom for improvisation.
