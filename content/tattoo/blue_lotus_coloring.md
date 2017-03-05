@@ -10,7 +10,7 @@ bodypart = [
 ]
 images_ipfs = [  
   "QmTtLiPz2fLMXwULuXbkKcFUgpd7shfELtNJMCoELqpyHz",
-  "QmPFyGXY6dKXWGur3t5RVbLfdXDx1XbCJ4Z6mtDPjmFbHJ",
+  "QmSh7TJLu18eYiaqvNXAt3KvHXaKGreFchizmMQu6wpnX7",
   "QmWTQKhEF31AqsUgUrHEsvVviT2FfHTvJHRxc9NmjWtUwD",
   "QmUG3xSubeuaJNgFrH8xu2uVS5KArJusmcCgh5xxgcTD9T",
 ]

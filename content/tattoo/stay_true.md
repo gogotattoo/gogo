@@ -2,10 +2,10 @@
 bodypart = [
   "waist",
 ]
-images_ipfs = [
-  "Qmbst3fXxVAHC4jmBDUGDepqHBRtJW3ZgXCrQBAi6y1rXk",
-  "QmbYASujDmhR19WcfqiS7RdsD1TJNJu4hxWFVtzjQf21DQ"
+images_ipfs = [  "QmTDujku4SweMKFx4ftHpbR2YVfFJSSREWZ29D9J4G5Q1J",
+  "QmQJDTwW9JN6dzh7KXM2RUXRKFAiRrjw7gYi7oQQ7J7ao3",
 ]
+
 tags = [
   "mountain",
   "black and gray",
@@ -20,7 +20,7 @@ gender = "female"
 duration_mins = 10
 tattoodate = "2016-12-21T18:30:46+08:00"
 title = "Stay True"
-image = "stay_true/stay_true_final"
+image_ipfs = "QmbtM7gduTdFzhw1JwX9huToEAWPtU1LfCAR3Rv8CvKn4t"
 location_country = "China"
 date = "2016-12-24T10:30:46+08:00"
 
