@@ -16,24 +16,20 @@ gender = "male"
 title = "His Family Members"
 images = [
 ]
-image = "family_members"
-images_ipfs = [
-  "QmWcMRnmVGZj4exzfNje8eUMosS1YXmoGVevmcDfYeg65n",
-  "QmWnL75jbDaW9vS7A6x348QoELUux7w8APrFPWSrK6Xi1p",
-  "QmTDwAGYWSFoJ9PboCKeaZRr34tSsMX1HJwgofwnWLdqVX",
-  "QmXUhnpLSS1uF88znMuPWy3MGsqCHFBnvoyEa87MN7dCZ4",
-  "QmdAnLsHURcoSXjR7UKr3xSa4iPeaNVhfDrusWa1g8QfVC",
-  "QmZCf6h2uy1wQ6sgLH6Ncff1aoRQpw5y5NK4Jix4mhbrD3",
-  "QmamHg7pnvu92j1Dcn7gi5XWFeKPk76zWjjQupHFcF2v5C",
-  "QmcZwNFZdR3SLJgWaKmYoSd5XB1rruPFM2vGQ3gXcpmSMt",
-  "QmeFN9J6YACTKUHS6sNtHYjiXLC92sZLyq45p5JLGBULDB",
-  "Qmdqstx94D96NkNQaTiGTjz83B7ho5J5gcpARDwo1ziKjq",
-  "QmZaNw1K96KkmNmLdTr554n61FHDJdDKfC769ouNfcSRqe",
-  "QmTxM5phMo7LRfeqbk4Z7uTzMmSQ7EM1gzaTzt44b41Ppt",
-  "QmSiTkK2s3uX43c5HSYjpFKRrkAfCYbt37HmVhXCrMTZHQ",
-  "QmbJb2ghw7ToWTuCXqFHkffF27cqTonAL75ptBfuy3BZRu",
-  "QmV6iivGbFNNNGKyQyXFcNqr5T7rhXFm93TySRUiiKBvAY"
+image_ipfs = "QmbZ9PTqtSxnhkRBWs42Y8MuMLJBovSVNm8puFwfbWjYXM"
+images_ipfs = [  
+  "QmRGoW9AyreyStV9CbY55dxfnw78rSbzX5KKGfq4WwX75i",
+  "QmYCfDzqZ7XbJgE8xQytDHEMbfnRdDzVSyvhXmBwa3t5iG",
+  "Qmdbun8kJ748a4proEvCqu1XLawcQzJ5N6BqxVY5fkoeji",
+  "QmTKZCLFakwKhn2sEbaGqsKQUzD1vvd5wnGMy3A4UN6rvQ",
+  "Qme624YnGs7yyHEwBX5pwbKq54bNAvSyCEV5kjXUTBTbbT",
+  "QmXFc53tMfZg1adVMxNx4LkP42C784W4aNrHGHcj7p1S2R",
+  "QmQiCdyFqiVtRYrmzyLLG1HpTnzMxW7wgSWJJuNighJHDo",
+  "QmUxkU1x55eGJ2msLCuzaMBycyUPhmVUGEUN8PEFo925GC",
+  "QmY5jAmfEEpCmtx52JwTBHHTASkDzh6peRMEXvrWung5Tu",
+  "QmZe1upTxcgPj6KL8tEKVLKMfdXZhHtwHw8hdjECFJtDYw",
 ]
+
 location_city = "Shanghai"
 extra = ""
 made_at_shop = "chushangfeng"
