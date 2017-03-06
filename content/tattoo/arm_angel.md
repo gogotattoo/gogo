@@ -2,7 +2,7 @@
 images = ["arm_angel/arm_angel_pr1", "arm_angel/arm_angel_pr2"
 ]
 extra = ""
-tattoodate = "2016-9-20T22:38:26+08:00"
+tattoodate = "2016-09-20T22:38:26+08:00"
 location_city = "Shanghai"
 gender = "male"
 bodypart = [

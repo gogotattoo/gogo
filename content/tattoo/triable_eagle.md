@@ -17,7 +17,7 @@ images = ["triable_eagle/triable_eagle_pr1",
 ]
 location_country = "China"
 title = "Eagle"
-tattoodate = "2016-11-1T22:38:26+08:00"
+tattoodate = "2016-11-01T22:38:26+08:00"
 tags = [
   "black and gray",
   "bird",

@@ -1,7 +1,7 @@
 +++
 images = ["leg_frog/leg_frog_pr1", "leg_frog/leg_frog_pr2"
 ]
-tattoodate = "2016-1-22T22:38:26+08:00"
+tattoodate = "2016-01-22T22:38:26+08:00"
 gender = "male"
 location_city = "Shanghai"
 title = "Money frog"

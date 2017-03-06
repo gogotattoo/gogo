@@ -46,15 +46,21 @@
 											</div>
 			              </div>
                   </div>
-                  <ul class="tags">
-                    {{ range .Params.tags }}
-                      <li>
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">
-                          {{ .  }}
-                        </a>
-                      </li>
+                  <div class="dates">
+                    {{ with .Params.tattoodate }}
+                      <div class="made_date">
+                        Tattoo Made: {{ dateFormat  "2006/01/02" . }}
+                      </div>
                     {{ end }}
-                  </ul>
+                    {{ with .Date }}
+                      <div class="publish_date">
+                        Published: {{ .Format "2006/01/02" }}
+                      </div>
+                    {{ end }}
+                  </div>
+                  <div id="artwork-tags">
+                  {{ partial "artwork_tags.html" . }}
+                  </div>
 								</main>
 							</div>
 						</div>

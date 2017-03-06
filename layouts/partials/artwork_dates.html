@@ -1,0 +1,12 @@
+<div class="dates">
+  {{ with .Params.made_date }}
+    <div class="made_date">
+      Made: {{ dateFormat  "2006/01/02" . }}
+    </div>
+  {{ end }}
+  {{ with .Date }}
+    <div class="publish_date">
+      Published: {{ .Format "2006/01/02" }}
+    </div>
+  {{ end }}
+</div>

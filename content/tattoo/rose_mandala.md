@@ -1,16 +1,16 @@
 +++
-images = [
-"rose_mandala/rose_mandala_pr1",
-"rose_mandala/rose_mandala_pr2",
-"rose_mandala/rose_mandala_pr3",
-"rose_mandala/rose_mandala_pr4",
-"rose_mandala/rose_mandala_pr5",
-"rose_mandala/rose_mandala_pr6",
-"rose_mandala/rose_mandala_pr7",
-"rose_mandala/rose_mandala_pr8",
-"rose_mandala/rose_mandala_pr9",
-"rose_mandala/rose_mandala_pr10",
-"rose_mandala/rose_mandala_pr11",
+images_ipfs = [  
+  "QmYhk7GZzGDgstE5ZL2AnFtsinzs8vEwU8CYDAGFzCg1xE",
+  "QmPmxSd9n1odfwgQH2wvKZmxKYyPGWbkgzsLTrXD2uAfsS",
+  "QmcR4rZoarwhDA9PY7YPFd6kPJ2WN4M78y57MJk4XeeakW",
+  "QmPvD7twnwLTAcwYZ8Y2FZZWgU7mcKVpqbu5fbpjBBLHoh",
+  "QmRoLhmU5C6GJcAgkKfDbYWbNG38wRMmjkQ4MJUaBHuVDR",
+  "Qmb1ptDw3FpSLbHDFhXsvrP1rvxrQk1euq5hHuJdKfgqcs",
+  "Qmbrv8LEgrMyRLrgfUfZXb23ork3z2jV7PJ7xVa8X7yX3G",
+  "QmV7hQ8mGbmmAuBUkywuaFQhFg4rd4pMoFse8PEFoRvsQs",
+  "QmTesbdXi1ycDjtDQLsrAedriBiVjc2DfX8jQkErqX3Szi",
+  "QmY4H5LUrHX1taXVdfafyzjAf7TV1y36mkBXDcmz7sbjMr",
+  "QmeQUbiovv41nJvEgfdkpuUMLAPhG4BVDHpRzs8VnLPr4o",
 ]
 location_city = "Shanghai"
 extra = ""
@@ -34,7 +34,7 @@ tags = [
   "rose",
   "mandala",
 ]
-image = "rose_mandala/rose_mandala_final"
+image_ipfs = "QmVyTYudCvJnufz5DfcoMNgd7rj9tPkfSydXBawHuNCf53"
 design = "rose_mandala"
 
 +++
