@@ -5,7 +5,7 @@ gender = "female"
 image = "perfect_lining_stars"
 style = ["colourful"]
 tags = ["color", "stars", "lining", "perfect"]
-tattoodate = "2015-03-12T22:38:26+08:00"
+made_date = "2015-03-12T22:38:26+08:00"
 title = "Saggitarius & Virgo  射手座处女座"
 
 +++

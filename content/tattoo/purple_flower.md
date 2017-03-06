@@ -5,7 +5,7 @@ gender = "female"
 image = "purple_flower"
 image_ipfs = "QmdYJMKPVd6inNzuRv6pcSmTb1VWb7VEvSvBw28RSaiiBN"
 tags = ["color", "flower", "process", "purple"]
-tattoodate = "2013-11-12T22:38:26+08:00"
+made_date = "2013-11-12T22:38:26+08:00"
 title = "It's your flower"
 
 +++

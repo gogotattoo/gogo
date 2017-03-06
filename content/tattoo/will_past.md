@@ -22,7 +22,7 @@ images = [
 date = "2016-12-26T23:04:35+08:00"
 duration_mins = 30
 location_country = "China"
-tattoodate = "2016-12-26T11:04:35+08:00"
+made_date = "2016-12-26T11:04:35+08:00"
 tags = [
   "letters",
   "crazy",

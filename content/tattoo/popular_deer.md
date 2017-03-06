@@ -26,7 +26,7 @@ tags = [
 ]
 extra = ""
 image_ipfs = "QmQHDbqdr87z3etQeMkyoRqrowwBTQc1GFUtfQH13nRbBw"
-tattoodate = "2017-01-30T10:31:05+08:00"
+made_date = "2017-01-30T10:31:05+08:00"
 duration_mins = 180
 date = "2017-02-02T10:31:05+08:00"
 title = "Popular deer"

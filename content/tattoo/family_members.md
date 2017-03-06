@@ -1,7 +1,7 @@
 +++
 date = "2016-12-24T19:46:07+08:00"
 location_country = "China"
-tattoodate = "2016-12-24T14:30:07+08:00"
+made_date = "2016-12-24T14:30:07+08:00"
 tags = [
   "color",
   "black and gray",

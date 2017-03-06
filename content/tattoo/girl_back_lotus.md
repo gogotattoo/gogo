@@ -5,7 +5,7 @@ gender = "female"
 image = "girl_back_lotus"
 style = ["simplistic"]
 tags = ["black and gray", "flower", "lotus"]
-tattoodate = "2013-11-12T22:38:26+08:00"
+made_date = "2013-11-12T22:38:26+08:00"
 title = "Lotus 人手一个"
 
 +++

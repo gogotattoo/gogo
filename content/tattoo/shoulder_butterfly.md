@@ -5,7 +5,7 @@ gender = "female"
 image = "shoulder_butterfly"
 style = ["colourful"]
 tags = ["color", "butterfly"]
-tattoodate = "2015-11-12T22:38:26+08:00"
+made_date = "2015-11-12T22:38:26+08:00"
 title = "It'll fly away"
 
 +++

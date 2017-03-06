@@ -1,7 +1,7 @@
 +++
 gender = "male"
 extra = ""
-tattoodate = "2017-01-10T10:31:05+08:00"
+made_date = "2017-01-10T10:31:05+08:00"
 duration_mins = 160
 image_ipfs = "QmeCLoJmiFGdg6gWKqZdsb4JYQCrJpSKb1eC8MW31fZhd7"
 made_at_shop = "chushangfeng"

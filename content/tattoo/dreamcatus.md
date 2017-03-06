@@ -6,7 +6,7 @@ image = "dreamcatus/dreamcatus"
 images = ["dreamcatus/dreamcatus_0","dreamcatus/dreamcatus_00"]
 style = ["crazy"]
 tags = ["black and gray", "lotus", "dreamcatcher"]
-tattoodate = "2016-06-18T22:38:26+08:00"
+made_date = "2016-06-18T22:38:26+08:00"
 title = "Dreamcatus"
 
 +++

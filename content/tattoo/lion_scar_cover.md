@@ -1,7 +1,7 @@
 +++
 image_ipfs = "QmTyuLpNiSuh5ufRmTfUAmMTHTYmkCnBUiSK661DLrk4ej"
 title = "lion scar cover"
-tattoodate = "2017-01-12T19:01:06+03:00"
+made_date = "2017-01-12T19:01:06+03:00"
 tags = [
 "linings",
 "shadings",

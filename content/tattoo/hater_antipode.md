@@ -15,7 +15,7 @@ link = "http://gogo.tattoo/gogo/tattoo/hater_antipode"
 made_at_city = "Shanghai"
 made_at_country = "China"
 made_at_shop = "chushangfeng"
-tattoodate = "2017-03-06T16:10:00+08:00"
+made_date = "2017-03-06T16:10:00+08:00"
 tags = ["love", "hanzi", "simplicity", "ai"]
 title = "Hater antipode"
 +++

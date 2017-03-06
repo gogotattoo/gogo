@@ -1,7 +1,7 @@
 +++
 image_ipfs = "QmaWN2Bb1UpypX8XkzvRBXHg7ghXP4i81xNB2TDqJwL5XP"
 title = "Wing old tattoo cover"
-tattoodate = "2017-01-11T15:01:06+03:00"
+made_date = "2017-01-11T15:01:06+03:00"
 tags = [
 "realistic",
 "shadings",
