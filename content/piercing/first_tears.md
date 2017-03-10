@@ -9,6 +9,6 @@ made_at_country = "China"
 made_at_shop = "chushangfeng"
 made_date = "2017-03-10T14:00:00+08:00"
 tags = ["tears"]
-title = "Paddy's ears"
+title = "Paddy's ear"
 
 +++
