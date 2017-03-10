@@ -1,7 +1,7 @@
 +++
 location_city = "Shanghai"
 location_country = "China"
-tattoodate = "2009-11-12T22:38:26+08:00"
+made_date = "2009-11-12T22:38:26+08:00"
 bodypart = [
   "feet",
 ]

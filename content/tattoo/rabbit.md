@@ -6,7 +6,7 @@ image = "rabbit/rabbit_3"
 images = ["rabbit/rabbit_1","rabbit/rabbit_2","rabbit/rabbit_3"]
 style = ["simplicity"]
 tags = ["color", "animal", "rabbit"]
-tattoodate = "2013-11-12T22:38:26+08:00"
+made_date = "2013-11-12T22:38:26+08:00"
 title = ""
 
 +++

@@ -13,7 +13,7 @@ bodypart = [
   "leg",
   "forehead",
 ]
-tattoodate = "2016-12-31T14:01:06+03:00"
+made_date = "2016-12-31T14:01:06+03:00"
 date = "2017-01-04T10:02:52+03:00"
 location_city = "Shanghai"
 images_ipfs = [

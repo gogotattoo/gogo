@@ -24,7 +24,7 @@ images_ipfs = [  "QmfEiok8QbTSPXsteYnXxEEztSJqCr6qDE6HPJki4v9LkX",
   "QmSVNwvXoo1ouRauuXHimWpSfKzc6KAqyohE82WB4qRuUM",
 ]
 location_country = "China"
-tattoodate = "2016-12-27T00:07:11+08:00"
+made_date = "2016-12-27T00:07:11+08:00"
 bodypart = [
   "chest",
 ]

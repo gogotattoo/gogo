@@ -8,7 +8,7 @@ bodypart = [
 image = "it_sucks/it_sucks_final"
 images = ["it_sucks/it_sucks_pr1", "it_sucks/it_sucks_pr2"
 ]
-tattoodate = "2016-03-12T22:38:26+08:00"
+made_date = "2016-03-12T22:38:26+08:00"
 gender = "female"
 extra = "Two girls"
 tags = [

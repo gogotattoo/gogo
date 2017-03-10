@@ -30,6 +30,6 @@ tags = [
 date = "2017-01-21T23:00:39+08:00"
 image_ipfs = "QmZiRPPXfY5puWEbjxYJbC5BPo4NxBqiqg8bXBHbU6enCq"
 location_city = "Shanghai"
-tattoodate = "2017-01-21T23:00:39+08:00"
+made_date = "2017-01-21T23:00:39+08:00"
 design = "pans_compass"
 +++

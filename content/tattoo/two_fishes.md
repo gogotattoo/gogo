@@ -11,7 +11,7 @@ images_ipfs = [  "QmZ56j3bPeU8hpHeBUD5MxoS1oMw82S4kJboRjwFdDXCED",
   "QmPqKR2rhdEDNoheDLptQm9CFguikXyzzmR71FLuA4SgB1",
 ]
 
-tattoodate = "2017-02-19T12:30:05+08:00"
+made_date = "2017-02-19T12:30:05+08:00"
 bodypart = [
   "leg",
 ]

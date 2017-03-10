@@ -6,7 +6,7 @@ image = "fronteye/eye_2"
 images = ["fronteye/eye_1", "fronteye/eye_2"]
 style = ["crazy"]
 tags = ["color", "cover", "eye"]
-tattoodate = "2016-08-20T22:38:26+08:00"
+made_date = "2016-08-20T22:38:26+08:00"
 title = "Fronteye"
 
 +++

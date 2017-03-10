@@ -15,7 +15,7 @@ title = "Daisy"
 location_country = "China"
 images = ["daisy/daisy_pr1", "daisy/daisy_pr2", "daisy/daisy_pr3"
 ]
-tattoodate = "2016-12-12T22:38:26+08:00"
+made_date = "2016-12-12T22:38:26+08:00"
 style = [
   "colourful",
   "simplicity",

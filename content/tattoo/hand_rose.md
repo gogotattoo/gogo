@@ -5,7 +5,7 @@ gender = "female"
 image = "hand_rose"
 style = ["colourful"]
 tags = ["color", "flower", "curves"]
-tattoodate = "2015-01-12T22:38:26+08:00"
+made_date = "2015-01-12T22:38:26+08:00"
 title = "Curves! & Rose"
 
 +++

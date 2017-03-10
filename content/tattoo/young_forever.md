@@ -18,7 +18,7 @@ location_country = "China"
 extra = ""
 title = "Young forever"
 location_city = "Shanghai"
-tattoodate = "2017-02-21T19:01:00+08:00"
+made_date = "2017-02-21T19:01:00+08:00"
 duration_mins = 30
 images_ipfs = [  "QmXjHM2cxddtJjVaYhCbqM9S9EQ1S8eTvnUZbFQdry5Zkt",
   "QmbUr7iYqNWE6xq9gu8jdCk5YVPFG2M6tcPhLvJymcNgxB",

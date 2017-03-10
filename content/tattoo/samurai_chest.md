@@ -12,7 +12,7 @@ gender = "male"
 image = "samurai_chest/samurai_chest_final"
 images = ["samurai_chest/samurai_chest_pr1",
 ]
-tattoodate = "2015-11-22T22:38:26+08:00"
+made_date = "2015-11-22T22:38:26+08:00"
 tags = [
   "color",
   "samurai",

@@ -13,7 +13,7 @@ tags = [
   "orbit",
 ]
 title = "Planet compass"
-tattoodate = "2017-02-11T10:31:05+08:00"
+made_date = "2017-02-11T10:31:05+08:00"
 bodypart = [
   "leg",
 ]

@@ -22,7 +22,7 @@ image_ipfs = "QmceAahY2U6SfJGJonxFd1FeCz8kfidUup3z5cX3HuxERC"
 title = "Lotus Colored Blue"
 location_city = "Shanghai"
 made_at_shop = "chushangfeng"
-tattoodate = "2016-12-19T14:00:26+08:00"
+made_date = "2016-12-19T14:00:26+08:00"
 duration_mins = 90
 
 +++

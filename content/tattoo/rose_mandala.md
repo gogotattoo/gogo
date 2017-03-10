@@ -14,7 +14,7 @@ images_ipfs = [
 ]
 location_city = "Shanghai"
 extra = ""
-tattoodate = "2016-12-14T22:38:26+08:00"
+made_date = "2016-12-14T22:38:26+08:00"
 made_at_shop = ""
 style = [
   "colourful",

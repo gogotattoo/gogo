@@ -7,7 +7,7 @@ bodypart = [
 ]
 image = "pixel_heart/pixel_heart_final"
 extra = ""
-tattoodate = "2016-07-12T22:38:26+08:00"
+made_date = "2016-07-12T22:38:26+08:00"
 tags = [
   "color",
   "heart", "pixel"

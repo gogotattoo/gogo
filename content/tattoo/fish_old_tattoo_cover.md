@@ -1,7 +1,7 @@
 +++
 image_ipfs = "QmPN8sLcdeQemDQ82A9AK8GGZPxfaJ3n5ted31tQM8WkDK"
 title = "Fish old tattoo cover"
-tattoodate = "2017-01-11T18:01:06+03:00"
+made_date = "2017-01-11T18:01:06+03:00"
 tags = [
 "colorful",
 "watercolor",

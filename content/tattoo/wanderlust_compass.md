@@ -1,7 +1,7 @@
 +++
 image_ipfs = "QmYhvw5ZfU2RDNq5njQ6JqG8PgrqL3xoyBkfiHXF6U5ZEo"
 title = "Wanderlust Compass"
-tattoodate = "2017-01-17T13:01:06+03:00"
+made_date = "2017-01-17T13:01:06+03:00"
 tags = [
   "shades",
   "compass",

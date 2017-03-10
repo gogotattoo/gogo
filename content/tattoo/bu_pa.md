@@ -1,5 +1,5 @@
 +++
-tattoodate = "2014-11-12T22:38:26+08:00"
+made_date = "2014-11-12T22:38:26+08:00"
 tags = [
   "black and gray",
   "text",

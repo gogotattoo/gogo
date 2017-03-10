@@ -6,7 +6,7 @@ image = "mandatus/mandatus_1"
 images = ["mandatus/mandatus_1", "mandatus/mandatus_2", "mandatus/mandatus_3"]
 style = ["simplicity"]
 tags = ["black and gray", "mandala", "lotus"]
-tattoodate = "2016-08-15T22:38:26+08:00"
+made_date = "2016-08-15T22:38:26+08:00"
 title = "Mandatus"
 
 +++

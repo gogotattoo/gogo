@@ -1,7 +1,7 @@
 +++
 image = "eagle_arm_ring_final"
 title = "Eagle arm ring"
-tattoodate = "2016-12-31T19:01:06+03:00"
+made_date = "2016-12-31T19:01:06+03:00"
 tags = [
  "black and gray",
  "bird",
