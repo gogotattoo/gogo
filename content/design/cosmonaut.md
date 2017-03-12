@@ -1,6 +1,8 @@
 +++
 image_ipfs = "QmZtUJ1v3DRGxT2wBPDSJps8RTrFfrXGVrjmxLUtXoBe8L"
-images_ipfs = ["QmRn8tVqzphMMx7PjqwuZaZ1ccS3jRRLx9ZsMNmWP4iRMq"]
+images_ipfs = [  "QmejXzurPeCb8cETErNkWQ8Dc3uK3Y2zqUwewWxCcdVBJZ",
+  "QmRn8tVqzphMMx7PjqwuZaZ1ccS3jRRLx9ZsMNmWP4iRMq",
+]
 made_at = ""
 tags = [
   "space",
