@@ -9,15 +9,11 @@ made_date = "2017-03-19T16:00:00+08:00"
 date = "2017-03-20T08:30:00+08:00"
 tags = ["jellyfish", "black and grey", "freehand", "arm ring"]
 bodypart = ["arm", "upper arm"]
-image_ipfs = "QmbnRurwXawv2QwgQ2xpEMp2tPWyrS4UqHHk2HZb5QX37P"
-images_ipfs = [  "QmYKhK622Rz98G5iBYLS8q93zKQSWC7rzny63nfjttjjav",
-  "Qme7iCZgqa5UYG5uYAzEpKqXV2rBzaSiFEi4pxRY9bo2Hb",
-  "QmSX5QQoepKhfQHGHL1HvYwuPZ3ZQsQs2Z84JkYyHHj8sZ",
-  "QmXjLfxBx5J2BjecWsEchy6vCnUiV668annXTrL8TpbVgu",
-  "QmWcQDzjnRVF7sbL6JystpM7v2pK3Nyqkbb1mZSGpKwWKU",
-  "QmQbFfPwzbvK3kPpkVLUkuLhoukMgG9d3KPSRtzEUsgg2r",
-  "QmQJkBo7MUnTSNtqGtRwM1oZwEZDC6chiYDKDJ5AvvTkNb",
-  "QmeymREt7vX7GC8YN6hCKQjvbFhN3UGTUKcTR15uL5s1JP",
+image_ipfs = "QmS6uP4cJFVf18mWB3KqED4uvNq3o3tvmp8cikmbsTmVUk"
+images_ipfs = [  "QmPwcMByiT4WYLizeEgHR6x5ohUTTG1JnuXMcfRqMahZKm",
+  "QmXMLodPJNiPu2bqEKZWKQJ7TpWziCAQ25ES4GF41n1MBW",
+  "QmR6uoQRgmcoygJcwLGoUHfrEbVjQV9nUV4EJFmZGFXCRV",
+  "QmdWPh3HRY8uuQUnTDjoTKMrX4VbjTPtQ6FqMwNF1Fktww",
 ]
 location_city = "Shanghai"
 location_country = "China"
