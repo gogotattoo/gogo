@@ -1,0 +1,74 @@
+ {{ partial "header.html" . }}
+
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+							{{ partial "profile.html" . }}
+					  </div>
+						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+							 <main role="main">
+								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
+                 {{ with .Params.design }}
+                  <a href="{{ $.Site.BaseURL }}design/{{ . }}"><h2 class="design-link">Design of this tattoo is available here.</h2></a>
+                 {{ end }}
+								 <section itemprop="entry-text">
+									 {{ .Content }}
+                 <div id="tattoo-wrapper">
+                    <div id="tattoo-columns-single">
+											{{ range .Params.images }}
+												{{ if not (eq $.Params.image .) }}
+		              				<div class="pin">
+														<figure>
+															<img class="tattoo-image"
+																src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg"
+																alt="{{ $.Title }}">
+														</figure>
+													</div>
+												 {{ end }}
+											{{ end }}
+											{{ range .Params.images_ipfs }}
+  	              				<div class="pin">
+  													<figure>
+  														<img class="tattoo-image"
+  															src="https://gateway.ipfs.io/ipfs/{{ . }}"
+  															alt="{{ $.Title }}">
+  													</figure>
+  												</div>
+											{{ end }}
+			              	<div class="pin">
+												<figure>
+                          {{ if .Params.image_ipfs }}
+                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+                          {{ else }}
+                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+                          {{ end }}
+												</figure>
+											</div>
+			              </div>
+                  </div>
+                  <div class="dates">
+                    {{ with .Params.made_date }}
+                      <div class="made_date">
+                        Tattoo Made: {{ dateFormat  "2006/01/02" . }}
+                      </div>
+                    {{ end }}
+                    {{ with .Date }}
+                      <div class="publish_date">
+                        Published: {{ .Format "2006/01/02" }}
+                      </div>
+                    {{ end }}
+                  </div>
+                  <div id="artwork-tags">
+                  {{ partial "artwork_tags.html" . }}
+                  </div>
+								</main>
+							</div>
+						</div>
+					</div>
+
+
+
+	{{ partial "js.html" . }}
+
+
+	{{ partial "footer.html" . }}
