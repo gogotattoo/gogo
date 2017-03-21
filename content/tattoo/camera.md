@@ -22,7 +22,7 @@ images_ipfs = [  "QmXRcECSEXipmZRs35UWk9x2g97JpUymZYraA63mf4edMJ",
   "QmVJMsGboFGwUv2uCpSw8Q72ZBytDvQswjYSwHha9AaF52",
 ]
 gender = "male"
-tattoodate = "2017-02-17T19:00:05+08:00"
+made_date = "2017-02-17T19:00:05+08:00"
 duration_mins = 90
 bodypart = [
   "belly",

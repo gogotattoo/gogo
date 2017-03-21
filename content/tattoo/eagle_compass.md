@@ -8,7 +8,7 @@ images_ipfs = [
   "QmNoz7hz2UoHQM6qDQrj2osEAst5NVteUFnkXW2g6ggL9c",
   "QmQH5g4Eg2QRSpvSfiFWPgwZCroFgB54dKvXicSmjr4UZz",
 ]
-tattoodate = "2017-02-02T10:31:05+08:00"
+made_date = "2017-02-02T10:31:05+08:00"
 tags = [
   "black and gray",
   "bird",

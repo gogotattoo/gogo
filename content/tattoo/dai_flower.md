@@ -12,7 +12,7 @@ bodypart = [
   "back",
 ]
 made_at_shop = "chushangfeng"
-tattoodate = "2017-02-12T10:31:05+08:00"
+made_date = "2017-02-12T10:31:05+08:00"
 gender = "female"
 location_city = "Shanghai"
 extra = ""

@@ -13,7 +13,7 @@ tags = [
 bodypart = [
   "arm"
 ]
-tattoodate = "2017-02-11T20:31:05+08:00"
+made_date = "2017-02-11T20:31:05+08:00"
 title = "Lycoris radiata"
 image_ipfs = "QmS6xEX874aJGbmL2qk1iPkZL1354mvGztawrKFpiyrdd6"
 extra = ""

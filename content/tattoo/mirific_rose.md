@@ -11,7 +11,7 @@ images_ipfs = [  "QmQRy1BaywGjzwTBSXdMYyqMqqTvFRKTQKsF35VB54HcLi",
 ]
 
 location_city = "Shanghai"
-tattoodate = "2017-02-13T10:31:05+08:00"
+made_date = "2017-02-13T10:31:05+08:00"
 tags = [
   "dots",
   "rose",

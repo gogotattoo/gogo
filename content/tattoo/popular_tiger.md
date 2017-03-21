@@ -1,5 +1,5 @@
 +++
-tattoodate = "2017-01-31T10:31:12+08:00"
+made_date = "2017-01-31T10:31:12+08:00"
 gender = "male"
 duration_mins = 120
 location_country = "China"

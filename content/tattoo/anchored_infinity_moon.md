@@ -1,7 +1,7 @@
 +++
 image_ipfs = "QmVuS54bPCRKMxbxsABybPkWegmwooYPcHk8hJv7YwDvcA"
 title = "Anchored infinity + moon + waves"
-tattoodate = "2017-01-16T20:01:06+03:00"
+made_date = "2017-01-16T20:01:06+03:00"
 tags = [
   "linings",
   "dots",

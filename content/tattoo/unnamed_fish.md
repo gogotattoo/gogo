@@ -26,9 +26,8 @@ link = "http://gogo.tattoo/gogo/tattoo/unnamed_fish"
 made_at_city = "Shanghai"
 made_at_country = "China"
 made_at_shop = "chushangfeng"
-made_date = "2017-03-03T00:00:00+08:00"
 tags = ["fish", "black and grey", "lotus", "waves", "flower"]
-tattoodate = "2017-03-03T00:00:00+08:00"
+made_date = "2017-03-03T19:00:00+08:00"
 title = "Unnamed fish"
 
 +++

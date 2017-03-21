@@ -22,7 +22,7 @@ tags = [
   "unicorn",
 ]
 made_at_shop = ""
-tattoodate = "2016-12-17T22:38:26+08:00"
+made_date = "2016-12-17T22:38:26+08:00"
 style = [
   "colourful",
 ]

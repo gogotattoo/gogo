@@ -11,7 +11,7 @@ extra = ""
 gender = "female"
 made_at_shop = ""
 title = "Life is a journey"
-tattoodate = "2016-04-12T22:38:26+08:00"
+made_date = "2016-04-12T22:38:26+08:00"
 image = "life_journey/life_journey_final"
 images = ["life_journey/life_journey_pr1",
 "life_journey/life_journey_pr2",
