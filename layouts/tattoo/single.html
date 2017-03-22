@@ -46,20 +46,10 @@
 											</div>
 			              </div>
                   </div>
-                  <div class="dates">
-                    {{ with .Params.made_date }}
-                      <div class="made_date">
-                        Tattoo Made: {{ dateFormat  "2006/01/02" . }}
-                      </div>
-                    {{ end }}
-                    {{ with .Date }}
-                      <div class="publish_date">
-                        Published: {{ .Format "2006/01/02" }}
-                      </div>
-                    {{ end }}
-                  </div>
+
+                  {{ partial "artwork_dates.html" . }}
                   <div id="artwork-tags">
-                  {{ partial "artwork_tags.html" . }}
+                    {{ partial "artwork_tags.html" . }}
                   </div>
 								</main>
 							</div>
