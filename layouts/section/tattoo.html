@@ -1,39 +1,35 @@
 {{ partial "header.html" . }}
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							{{ partial "profile.html" . }}
-					  </div>
-						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+			{{ partial "profile.html" . }}
+	  </div>
 
-						<main role="main">
-                {{ partial "tags.html" . }}
-              <div id="tattoo-wrapper">
-                 <div id="tattoo-columns-single">
-					          {{ range .Data.Pages }}
-            <div class="pin">
-                <a href="{{ .RelPermalink }}">
-                  <figure>
-                    {{ if .Params.image_ipfs }}
-                      <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
-                    {{ else }}
-                      <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
-                    {{ end }}
-                    <figcaption>{{ .Title }}</figcaption>
-                  </figure>
-                </a>
-            </div>
-					           {{ end }}
-                </div>
-              </div>
-						</main>
-
-
+		<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+		<main role="main">
+      {{ partial "tags.html" . }}
+	    {{ partial "controls.html" . }}
+      <div id="tattoo-wrapper">
+         <div class="one-column" id="list">
+	         {{ range .Data.Pages }}
+			       <div class="pin">
+			          <a href="{{ .RelPermalink }}">
+			            <figure>
+			              {{ if .Params.image_ipfs }}
+			                <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+			              {{ else }}
+			                <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+			              {{ end }}
+			              <figcaption>{{ .Title }}</figcaption>
+			            </figure>
+			          </a>
+			      	</div>
+	       		{{ end }}
+        	</div>
+      	</div>
+			</main>
+		</div>
 	</div>
-	</div>
-	</div>
-
-	{{ partial "js.html" . }}
-
-
-	{{ partial "footer.html" . }}
+</div>
+{{ partial "js.html" . }}
+{{ partial "footer.html" . }}

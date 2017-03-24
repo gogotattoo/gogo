@@ -10,8 +10,8 @@ googleAnalytics = "UA-79234406-1"
 favicon = "favicon.ico"
 
 [params.version]
-  name = "0.0.3-alpha"
-  code = 3
+  name = "0.0.4-alpha"
+  code = 4
 
 [taxonomies]
   tag = "tags"
