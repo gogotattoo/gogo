@@ -257,6 +257,8 @@ article {
 
 .pin figcaption {
 	text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 @media (min-width: 160px) {
