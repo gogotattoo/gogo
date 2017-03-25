@@ -8,8 +8,9 @@
 
 			<main role="main">
 				{{ partial "tags.html" . }}
+				{{ partial "controls.html" . }}
         <div id="tattoo-wrapper">
-           <div id="tattoo-columns-single">
+           <div class="one-column" id="list">
 		          {{ range .Data.Pages }}
 	            <div class="pin">
 	                <a href="{{ .RelPermalink }}">
