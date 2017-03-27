@@ -5,3 +5,20 @@
   translation: '使纹身艺术家获得认同感，展示身份，提高身价。<br><br>面对未知的下一个纹身来源，客户可以付出更多信任。<br>有直观的照片可以用来审核，纹身的真实性可以保证。'
 - id: main.buttonText
   translation: "我想知道多一些!"
+
+
+- id: nav.tattoo
+  translation: "纹身"
+- id: nav.design
+  translation: "设计"
+- id: nav.henna
+  translation: "海娜"
+- id: nav.piercing
+  translation: "穿孔"
+- id: nav.dreadlocks
+  translation: "脏辫"
+
+- id: profile.description
+  translation: "从14岁开始，我便有幸接触来自中国，新加坡，泰国，菲律宾，俄罗斯和全世界各地的纹身大师们。也是在14岁，我制作了第一个纹身，在新加坡的一间十年老纹身店里度过了一整个青春期。我觉得纹身的价值在于它的意义，在过去的日子里，我见证了多多少少个纹身改变了客人们的人生轨迹。每个纹身都是一个重要项目，是我干涉的人生，是我的责任。"
+- id: nav.contact
+  translation: "联系我"

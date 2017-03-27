@@ -19,6 +19,6 @@
     <div class="col-12 col-lg-12">Experience:</br>{{ .Site.Params.profile.experience }}</div>
   </div>
   <div class="row profile-description">
-    <div class="col-12 col-lg-12">{{ .Site.Params.profile.description }}</div>
+    <div class="col-12 col-lg-12">{{ .Site.Params.profile.description | i18n }}</div>
   </div>
 </section>

@@ -1,24 +1,36 @@
 baseurl = "http://gogo.tattoo/gogo/"
 languageCode = "en-us"
-title = "ʕ•ᴥ•ʔ gogo.tattoo"
+title = "ʕ•ᴥ•ʔ gogo.tattool/gogo"
 name = "gogo.tattoo"
 copyright = "gogo.tattoo"
 googleAnalytics = "UA-79234406-1"
+
+DefaultContentLanguage = "en"
+
+[Languages]
+  [Languages.en]
+    weight = 1
+  [Languages.zh]
+    weight = 3
+  [Languages.zh-hant]
+    weight = 2
+  [Languages.ru]
+    weight = 2
 
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"
 
 [params.version]
-  name = "0.0.5-alpha"
-  code = 5
+  name = "0.0.7-alpha"
+  code = 7
 
 [taxonomies]
   tag = "tags"
 
 [params.profile]
   avatar = "images/gogo.jpg"
-  description = "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
+  description = "profile.description"
   experience = "6+ years (since 2010)"
   location = "Shanghai"
   origin = "Shanghai"
@@ -35,6 +47,14 @@ favicon = "favicon.ico"
     # TODO: maybe there's a better way to organize it?
 
 # Navigation
+[params.nav]
+  tattoo = "nav.tattoo"
+  henna = "nav.henna"
+  design = "nav.design"
+  piercing = "nav.piercing"
+  dreadlocks = "nav.dreadlocks"
+  contact = "nav.contact"
+
 [params.navigation]
   brand = "gogo@gogo.tattoo"
 
