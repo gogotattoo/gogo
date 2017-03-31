@@ -24,19 +24,19 @@
             {{ end }}
             <ul class="nav navbar-nav navbar-left">
               <li>
-                <a class="page-scroll" href="{{ "/tattoo" | relURL }}">{{ .Site.Params.nav.tattoo | i18n }}</a>
+                <a class="page-scroll" href="{{ "/tattoo" | relLangURL }}">{{ .Site.Params.nav.tattoo | i18n }}</a>
               </li>
               <li>
-                <a class="page-scroll" href="{{ "/design" | relURL }}">{{ .Site.Params.nav.design | i18n }}</a>
+                <a class="page-scroll" href="{{ "/design" | relLangURL }}">{{ .Site.Params.nav.design | i18n }}</a>
               </li>
               <li>
-                <a class="page-scroll" href="{{ "/henna" | relURL }}">{{ .Site.Params.nav.henna | i18n }}</a>
+                <a class="page-scroll" href="{{ "/henna" | relLangURL }}">{{ .Site.Params.nav.henna | i18n }}</a>
               </li>
               <li>
-                <a class="page-scroll" href="{{ "/piercing" | relURL }}">{{ .Site.Params.nav.piercing | i18n }}</a>
+                <a class="page-scroll" href="{{ "/piercing" | relLangURL }}">{{ .Site.Params.nav.piercing | i18n }}</a>
               </li>
               <li>
-                <a class="page-scroll" href="{{ "/dreadlocks" | relURL }}">{{ .Site.Params.nav.dreadlocks | i18n }}</a>
+                <a class="page-scroll" href="{{ "/dreadlocks" | relLangURL }}">{{ .Site.Params.nav.dreadlocks | i18n }}</a>
               </li>
                 {{ if and .Site.Params.about .Site.Params.navigation.links.about }}
                     <li>

@@ -6,6 +6,7 @@ copyright = "gogo.tattoo"
 googleAnalytics = "UA-79234406-1"
 
 DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = "false"
 
 [Languages]
   [Languages.en]
