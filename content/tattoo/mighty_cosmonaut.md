@@ -1,5 +1,5 @@
 +++
-design = "spaceman"
+design = "mighty_cosmonaut"
 bodypart = ["arm"]
 date = "2017-03-31T02:00:00+08:00"
 duration_min = 120
@@ -12,7 +12,7 @@ made_at_country = "China"
 made_at_shop = "chushangfeng"
 made_date = "2017-03-31T00:00:00+08:00"
 tags = ["star", "space", "earth", "spaceman", "color"]
-title = "Spaceman"
+title = "Mighty Cosmonaut"
 
 
 +++
