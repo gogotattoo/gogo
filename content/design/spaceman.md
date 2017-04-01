@@ -12,6 +12,6 @@ image_ipfs = "QmXy94c4MuGVYNonwvq8bNRWaXyityUAi9T7CuaWMmdCXq"
 images_ipfs = [  "QmYVJe3QdU3dJWCi7NeAQiR2CWaMKtfPPmBvi2zuAvb2rp",
   "QmViUtNDEuUkA7R9rm4mp3iHriepGrBU1gMmuYCAnTirAM",
 ]
-
+tattoos = ["spaceman"]
 
 +++

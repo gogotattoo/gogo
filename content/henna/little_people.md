@@ -14,5 +14,6 @@ images_ipfs = ["QmSjuxnByHeNUY35gSa5zbFZXPMSvpDsUEamDpAZKvSpcP", "QmWzjDtgjR3djR
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "home"
+draft = true
 
 +++

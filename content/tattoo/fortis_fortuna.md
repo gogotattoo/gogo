@@ -3,6 +3,7 @@ Link = "http://gogo.tattoo/gogo/tattoo/fortis_fortuna"
 title = "Fortis fortuna"
 duration_min = 70
 gender = "male"
+draft = true
 extra = ""
 article = ""
 made_date = "2017-03-14T00:00:00+08:00"
