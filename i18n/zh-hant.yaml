@@ -1,7 +1,16 @@
-# Landing
-- id: main.slogan
-  translation: "我們的使命是<br>創建更好的紋身世界"
-- id: main.subtitle
-  translation: '使紋身藝術家獲得認同感，展示身份，提高身價。<br><br>面對未知的下一個紋身來源，客戶可以付出更多信任。<br>有直觀的照片可以用來稽核，紋身的真實性可以保證。'
-- id: main.buttonText
-  translation: "我想知道多一些!"
+#
+- id: nav.tattoo
+  translation: "紋身"
+- id: nav.design
+  translation: "設計"
+- id: nav.henna
+  translation: "海娜"
+- id: nav.piercing
+  translation: "穿孔"
+- id: nav.dreadlocks
+  translation: "臟辮"
+
+- id: profile.description
+  translation: "從14歲開始，我便有幸接觸來自中國，新加坡，泰國，菲律賓，俄羅斯和全世界各地的紋身大師們。也是在14歲，我製作了第一個紋身，在新加坡的一間十年老紋身店裡度過了一整個青春期。我覺得紋身的價值在於它的意義，在過去的日子裡，我見證了多多少少個紋身改變了客人們的人生軌跡。每個紋身都是一個重要項目，是我干涉的人生，是我的責任。"
+- id: nav.contact
+  translation: "聯繫我"

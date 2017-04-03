@@ -1,11 +1,3 @@
-# Landing
-- id: main.slogan
-  translation: "Our mission is to better the world of tattoos"
-- id: main.subtitle
-  translation: "Recognition for artists, trust for clients, authenticity for tattoos"
-- id: main.buttonText
-  translation: "Learn more"
-
 
 - id: contact.headline
   translation: "Follow my public groups"
@@ -19,7 +11,7 @@
 - id: contact.steemit
   translation: "gogotattoo"
 - id: contact.wechat_qr
-  translation: "QmPGyVSKb3NCTq1a1saFi61SpurFa9YBFRd7qUGbM8TPqz"
+  translation: "QmX2v8KFZtiWHTybkog1pZdJCWC2SaZZwg3EH9jNuqDnza"
 
 - id: nav.tattoo
   translation: "Tattoo"

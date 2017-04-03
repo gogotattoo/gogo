@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
             {{ with .Site.Params.navigation.brand }}
-                <a class="navbar-brand page-scroll" href="{{ $.Site.BaseURL }}">{{ . | markdownify }}</a>
+                <a class="navbar-brand page-scroll" href="{{ $.Site.BaseURL | relLangURL }}">{{ . | markdownify }}</a>
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
