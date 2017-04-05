@@ -24,5 +24,5 @@ images_ipfs = ["QmRQbXb5G9Ur5oX8vEs6RroM4X21wnFahFBkocHR2bAchj",
 image_ipfs = "QmcXBoywjAeUjtvTnjEg3UFicLJAwiZBa9jLb73mRBZ6cR"
 title = "Anchored Infinity + Moon"
 extra = ""
-tattoos = ["anchored_infinity_moon"]
+tattoos = ["anchored_infinity"]
 +++
