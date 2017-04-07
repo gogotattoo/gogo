@@ -3,10 +3,11 @@ date = "2016-12-24T19:46:07+08:00"
 location_country = "China"
 made_date = "2016-12-24T14:30:07+08:00"
 tags = [
-  "color",
   "black and gray",
   "animal",
   "cat",
+  "flowers",
+  "leaves",
   "simplicity",
 ]
 bodypart = [
@@ -14,8 +15,6 @@ bodypart = [
 ]
 gender = "male"
 title = "His Family Members"
-images = [
-]
 image_ipfs = "QmbZ9PTqtSxnhkRBWs42Y8MuMLJBovSVNm8puFwfbWjYXM"
 images_ipfs = [  
   "QmRGoW9AyreyStV9CbY55dxfnw78rSbzX5KKGfq4WwX75i",
