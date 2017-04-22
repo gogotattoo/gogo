@@ -11,6 +11,9 @@
                  {{ with .Params.design }}
                   <a href="{{ $.Site.BaseURL }}design/{{ . }}"><h2 class="design-link">Design of this tattoo is available here.</h2></a>
                  {{ end }}
+                 {{ with .Params.previous }}
+                  <a href="{{ $.Site.BaseURL }}tattoo/{{ . }}"><h2 class="design-link"><< Previous tattoo</h2></a>
+                 {{ end }}
 								 <section itemprop="entry-text">
 									 {{ .Content }}
                    {{ partial "controls.html" . }}

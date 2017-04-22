@@ -23,8 +23,5 @@ tags = [
 gender = "female"
 location_country = "China"
 location_city = "Shanghai"
-
+previous = "wanderlust_compass"
 +++
-
-Another tattoo on the other hand is also done by me and is available [here](gogo/tattoo/wanderlust_compass):
-<center>[gogo/tattoo/wanderlust_compass](gogo/tattoo/wanderlust_compass)</center>

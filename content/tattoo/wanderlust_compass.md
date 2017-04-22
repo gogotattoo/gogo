@@ -28,6 +28,6 @@ location_city = "Shanghai"
 date = "2017-01-17T15:01:06+03:00"
 design = "wanderlust_compass"
 +++
-
-Another tattoo on the other hand is also done by me and is available [here](gogo/tattoo/double_helix):
-<center>[gogo/tattoo/wanderlust_compass](gogo/tattoo/double_helix)</center>
+<center>
+Another tattoo on the other hand is also done by me and is available [here](http://gogo.tattoo/gogo/tattoo/double_helix):<br><br>
+[gogo/tattoo/wanderlust_compass](http://gogo.tattoo/gogo/tattoo/double_helix)</center>

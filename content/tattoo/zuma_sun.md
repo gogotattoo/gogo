@@ -17,5 +17,6 @@ made_at_shop = "chushangfeng"
 made_date = "2017-04-11T00:00:00+08:00"
 tags = ["maori", "zuma", "sun", "stone"]
 title = "Zuma Sun"
+previous = "dragon_maori"
 
 +++

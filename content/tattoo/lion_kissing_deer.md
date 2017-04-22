@@ -25,5 +25,5 @@ images_ipfs = [  "QmQjBMtzFUWVaxqbVMXLcS6KjRq7PgATQnEHFzJLznBgYE",
 made_at_shop = "chushangfeng"
 date = "2017-04-01T16:51:52+08:00"
 title = "Lion kissing Deer"
-
+previous = "genesis_background_mandala"
 +++

@@ -34,5 +34,6 @@ tags = [
 gender = "female"
 image = "genesis_mandala_final"
 title = "The genesis block [part2+mandala]"
+previous = "genesis_block"
 
 +++
