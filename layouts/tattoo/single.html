@@ -8,12 +8,23 @@
 						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 							 <main role="main">
 								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
+                 <div class="extra-links">
                  {{ with .Params.design }}
                   <a href="{{ $.Site.BaseURL }}design/{{ . }}"><h2 class="design-link">Design of this tattoo is available here.</h2></a>
                  {{ end }}
                  {{ with .Params.previous }}
-                  <a href="{{ $.Site.BaseURL }}tattoo/{{ . }}"><h2 class="design-link"><< Previous tattoo</h2></a>
+                  <div class="previous-link">
+                    <a href="{{ $.Site.BaseURL }}tattoo/{{ . }}"><< Previous</a>
+                  </div>
                  {{ end }}
+                 {{ range where .Site.Pages "Type" "=" "tattoo" }}
+                  {{- if eq .Params.previous $.File.BaseFileName }}
+                  <div class="next-link">
+                   <a href="{{ $.Site.BaseURL }}tattoo/{{ .File.BaseFileName }}">Next >></a>
+                 </div>
+                  {{ end -}}
+                 {{ end -}}
+                 </div>
 								 <section itemprop="entry-text">
 									 {{ .Content }}
                    {{ partial "controls.html" . }}
