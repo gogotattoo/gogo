@@ -8,7 +8,7 @@ images_ipfs = [  "QmYRPB1sX6xbw5SfUoAq3gT2gnuvCHWRSqAmJwMiG2iwYn",
   "QmSPJBkdewt5wFdFyTkm7Q9aZDwYAiMQ4VJZBxoiZZx5QH",
   "QmU2f6tfkm2WvhnPsDCsBTSmzN7riWHPk76rfhV8CSe2hi",
   "QmNXncxz1eRUvPkDqKnSxCGfyLEcRUpi1emCEiTQBTKZS1",
-  "QmNktJRXRU5j4644r5PHJ7ZvBpNVWDXhteVEv9jkjrhyPR",
+  "QmXkpA5E6WMgPnhuBVVX8BmfGGVzU1Ekey1HXDWbDXeWQx",
   "QmfYxHefjxrvydusz6P7E8vdJpSwVJzBw7hZ9RsVmNzK77",
   "QmXw2t2cVD94XFgtpEK7VhjxmoMgYUUJGfJuXMCcvEYMQd",
 ]
