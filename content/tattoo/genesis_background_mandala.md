@@ -16,14 +16,12 @@ bodypart = [
 made_date = "2016-12-31T14:01:06+03:00"
 date = "2017-01-04T10:02:52+03:00"
 location_city = "Shanghai"
-images_ipfs = [
-  "QmZgRMXD5Ui91es98Ax9cGPeVqorJVch7sgoyeyG6mygTy",
-  "QmPDv7h2jafb2fMzWaLfPnJBixewHby5R3juQPLhVYoFC8",
-  "Qmf8RFpncmKS2MAYTefLkfeKpvETW6mxY3nSEUYbXTvHH1",
-  "QmS23msGLuAa7utKWdYpTZJ611w95AUW93eXJtxyTiEBdZ",
-  "QmQCPhXCJsiFtqHy2ZoHf3u5Tu32gUFpxNKLqf3hsZuFJS",
-
+images_ipfs = [  "QmZGRRPn9DbU8ZaB8NBSzR1M62tzkF8ByV1ycAigJkrMUj",
+  "QmTHCh9GwtT6FGt5eBeK59Z4PqXKvk8RtUFVF3oBa1sLBF",
+  "QmPwuwyw6sMygTaenEihXnjVeAbZicu9Jffo7nBjTgf9rR",
+  "Qmf2FdAbNW8qdXme4FdbpPJqQFsTCSWeHrd2dap2XXJzTw",
 ]
+image_ipfs = "QmaD8MiTAj122C45mJX5ApbftoN3pJEX56GqjqUyxdgJzh"
 extra = ""
 duration_mins = 90
 tags = [

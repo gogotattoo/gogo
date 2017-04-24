@@ -1,3 +1,9 @@
+[0.0.8-aplha]
+ + Previous/Next tattoo work navigation
+
+[0.0.7-alpha]
+ * localization support, works together with gogo-build
+
 [0.0.5-alpha]
  + buttons to switch view list/columns everywhere
  * nicer margins
