@@ -1,0 +1,7 @@
+<div class="bodyparts">
+  Body parts:
+  {{ range $index, $element := .Params.bodypart }}
+      {{ if $index }},{{ end }}
+      {{ $element }}
+  {{end}}
+</div>
