@@ -1,0 +1,15 @@
+<div class="blockchain">
+  {{ if or .Params.blockchain.steem .Params.blockchain.golos}}
+  <h3>On the Blockchains:</h3>
+  {{ end }}
+  {{ with .Params.blockchain.steem }}
+    <div class="blockchain_steem">
+      <a href="https://steemit.com/{{ . }}">Steem</a>
+    </div>
+  {{ end }}
+  {{ with .Params.blockchain.golos }}
+    <div class="blockchain_golos">
+      <a href="https://golos.io/{{ . }}">Golos</a>
+    </div>
+  {{ end }}
+</div>

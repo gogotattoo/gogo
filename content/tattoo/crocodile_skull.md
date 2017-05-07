@@ -25,4 +25,7 @@ location_city = "Gatchina"
 location_country = "Russia"
 made_at_shop = "aid_tattoo"
 design = "crocodile_skull_with_dog"
+[blockchain]
+golos = "ru--tatu/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-design-tattoo-crocodileskull"
+steem = "art/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-design-tattoo-crocodileskull"
 +++
