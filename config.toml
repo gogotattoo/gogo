@@ -32,8 +32,8 @@ favicon = "favicon.ico"
 [params.profile]
   avatar = "images/gogo.jpg"
   description = "profile.description"
-  experience = "6+ years (since 2010)"
-  location = "Shanghai"
+  experience = "7+ years (since 2010)"
+  location = "Gatchina, Russia"
   origin = "Shanghai"
 
   [params.profile.contact]
