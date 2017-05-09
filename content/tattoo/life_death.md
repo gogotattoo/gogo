@@ -23,5 +23,8 @@ location_city = "Gatchina"
 location_country = "Russia"
 made_at_shop = "aid_tattoo"
 previous = ""
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-lifedeath"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-lifedeath"
 
 +++
