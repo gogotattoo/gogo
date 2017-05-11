@@ -25,7 +25,9 @@ images_ipfs = [ "QmT2nfYJU4e6B4SX6FvrF3GbvGNytyVz7oRMXnU7ydWPRj",
 location_city = "Gatchina"
 location_country = "Russia"
 made_at_shop = "aid_tattoo"
-
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-leesdragon"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-leesdragon"
 +++
 
 <center>The original Bruce was
