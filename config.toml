@@ -33,7 +33,7 @@ favicon = "favicon.ico"
   avatar = "images/gogo.jpg"
   description = "profile.description"
   experience = "7+ years (since 2010)"
-  location = "Gatchina, Russia"
+  location = "Saint-Petersburb Tattoo Weekend 2017"
   origin = "Shanghai"
 
   [params.profile.contact]
