@@ -1,11 +1,11 @@
 +++
 Link = "http://gogo.tattoo/gogo/tattoo/lees_dragon"
 title = "Lee's dragon"
-duration_min = 300
+duration_min = 400
 gender = "male"
 extra = ""
 article = ""
-made_date = "2017-05-11T00:00:00+08:00"
+made_date = "2017-05-10T14:00:00+08:00"
 date = "2017-05-11T05:00:00+08:00"
 tags = ["color", "dragon", "red", "wind", "lee", "fist"]
 bodypart = ["arm"]

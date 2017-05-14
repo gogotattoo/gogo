@@ -44,9 +44,9 @@ steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-threecharm"
 <center>
 
 <b>Three is a charm.</b><br><br>
-This work was produced ***freehand*** at the Saint-Petersburg Tattoo Weekend'17 ___[day one]___, according
+This work was produced ***freehand*** at the [Saint-Petersburg Tattoo Weekend'17](http://tattoo-weekend.ru) ___[day one]___, according
 to every single desire of the model. We started with one skull, one raven and so on, but
 end up tripling it gracefully.
 <br><br>
-<i>Good things comes in threes.</i>
+<i>Good things come in threes.</i>
 </center>
