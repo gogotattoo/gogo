@@ -20,6 +20,7 @@ possible_bodypart = [
 ]
 date = "2017-01-16T08:13:57+08:00"
 title = "Lesbibull"
+tattoos = ["taurus_roses"]
 +++
 
 This design has unique history...

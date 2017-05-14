@@ -35,3 +35,11 @@ design = "lesbibull"
 golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-taurusroses"
 steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-taurusroses"
 +++
+
+<center>
+This work was delivered on the second day of participation in the [Saint-Petersburg Tattoo Weekend 2017](http://tattoo-weekend.ru).
+
+The final work is based on the original [design](/gogo/design/lesbibull) by Yana Gogo, which she made in Shanghai in early 2017. It has quite a history. For the Saint-Petersburg event's model, according to her wishes, Yana changed the flowers into roses. We're sure she has a lot to tell us about the excellent works she made and her experience of participation.
+
+Cannot wait to hear more about this work from the artist and the new owner.
+</center>
