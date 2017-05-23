@@ -21,5 +21,8 @@ made_date = "2017-04-19T00:00:00+08:00"
 tags = ["cover", "dragon", "maori", "turtle", "maze", "sleeve"]
 title = "Chelonioidea in maze"
 previous = "zuma_sun"
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-chelonioideainmaze"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-chelonioideainmaze"
 
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Predator in sakura"
+title = "Predator & sakura"
 duration_min = 600
 gender = "female"
 extra = ""
@@ -27,5 +27,8 @@ images_ipfs = [
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-predatorsakura"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-predatorsakura"
 
 +++
