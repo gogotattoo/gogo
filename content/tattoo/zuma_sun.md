@@ -18,5 +18,8 @@ made_date = "2017-04-11T00:00:00+08:00"
 tags = ["maori", "zuma", "sun", "stone"]
 title = "Zuma Sun"
 previous = "dragon_maori"
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-zumasun"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-zumasun"
 
 +++

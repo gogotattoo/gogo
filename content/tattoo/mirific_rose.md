@@ -25,5 +25,8 @@ image_ipfs = "QmShsXSpAsn5HPym8W3ohmwb41hETCw1w3r8ZLg9XGnhEb"
 made_at_shop = "chushangfeng"
 date = "2017-02-13T11:59:47+08:00"
 title = "Mirific rose"
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-mirificrose"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-mirificrose"
 
 +++

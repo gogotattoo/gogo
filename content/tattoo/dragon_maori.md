@@ -20,5 +20,8 @@ images_ipfs = ["QmPBQ1CAY7cYSJhuFSGghWNG5hCwHo2r5BrPbG9GG8pay9",
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-dragonmaori"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-dragonmaori"
 
 +++
