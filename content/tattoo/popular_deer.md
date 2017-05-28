@@ -31,6 +31,9 @@ duration_mins = 180
 date = "2017-02-02T10:31:05+08:00"
 title = "Popular deer"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-populardeer"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-populardeer"
 +++
 ----
 

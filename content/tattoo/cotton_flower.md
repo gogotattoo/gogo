@@ -27,4 +27,7 @@ tags = [
 ]
 image_ipfs = "QmdNs3qnyzz3r4ubWvHMRNvQ7HjnpZJjjuWNVbVocbNXHE"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-cottonflower"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-cottonflower"
 +++

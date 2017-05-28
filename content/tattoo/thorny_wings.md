@@ -21,4 +21,7 @@ made_date = "2017-04-08T15:00:00+08:00"
 tags = ["wings", "thorns", "black and gray", "bieber", "date"]
 title = "Thorny wings"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-thornywings"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-thornywings"
 +++

@@ -29,5 +29,8 @@ made_at_shop = "chushangfeng"
 tags = ["fish", "black and grey", "lotus", "waves", "flower"]
 made_date = "2017-03-03T19:00:00+08:00"
 title = "Unnamed fish"
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-unnamedfish"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-unnamedfish"
 
 +++

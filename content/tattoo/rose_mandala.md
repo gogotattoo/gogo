@@ -37,4 +37,7 @@ tags = [
 image_ipfs = "QmVyTYudCvJnufz5DfcoMNgd7rj9tPkfSydXBawHuNCf53"
 design = "rose_mandala"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-rosemandala"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-rosemandala"
 +++

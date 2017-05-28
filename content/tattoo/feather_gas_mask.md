@@ -21,4 +21,7 @@ location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-feathergasmask"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-feathergasmask"
 +++

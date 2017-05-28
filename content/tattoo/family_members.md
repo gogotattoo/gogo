@@ -34,4 +34,7 @@ extra = ""
 made_at_shop = "chushangfeng"
 duration_mins = 90
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-familymembers"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-familymembers"
 +++

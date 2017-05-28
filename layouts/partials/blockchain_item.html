@@ -1,0 +1,16 @@
+<div class="blockchain_item">
+  {{ with .Params.blockchain.steem }}
+    <span class="blockchain_steem">
+      <a href="https://steemit.com/{{ . }}"  style="padding-right:3px; padding-top: 3px; display:inline-block;">
+        <img class="steemAvatar" src="http://gogo.tattoo/img/lady1.png"/>
+      </a>
+    </span>
+  {{ end }}
+  {{ with .Params.blockchain.golos }}
+    <span class="blockchain_golos">
+      <a href="https://golos.io/{{ . }}" style="padding-right:3px; padding-top: 3px; display:inline-block;">
+        <img class="golosAvatar" src="http://gogo.tattoo/img/lady3.png"/>
+      </a>
+    </span>
+  {{ end }}
+</div>

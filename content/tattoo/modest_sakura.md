@@ -23,5 +23,7 @@ images_ipfs = [  "QmQfxXek51VwJQ6rm3EfgLj6sDRipSXztVW8y6cBSURnxz",
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
-
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-modestsakura"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-modestsakura"
 +++

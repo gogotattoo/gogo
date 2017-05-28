@@ -21,6 +21,7 @@
 			                <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
 			              {{ end }}
 			              <figcaption>{{ .Title }}</figcaption>
+										{{ partial "blockchain_item.html" . }}
 			            </figure>
 			          </a>
 			      	</div>

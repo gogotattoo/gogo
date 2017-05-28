@@ -17,6 +17,7 @@ tags = [
 image_ipfs = "QmPNdeeqfriLw5aJR5BTToovDTWtgMGmfpwH21ZgBTh7js"
 title = "Rose Mandala Design"
 tattoos = ["rose_mandala"]
+
 +++
 
 This design was prepared for our first client in [@chushangfeng](/@chushangfeng)

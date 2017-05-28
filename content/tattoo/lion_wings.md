@@ -23,4 +23,7 @@ location_country = "China"
 made_at_shop = "chushangfeng"
 design = "lion_wings"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-lionwings"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-lionwings"
 +++

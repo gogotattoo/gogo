@@ -28,7 +28,9 @@ tags = [
 ]
 date = "2017-02-02T10:31:12+08:00"
 title = "Popular tiger"
-
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-populartiger"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-populartiger"
 +++
 ----
 His [sweetheart](/gogo/tags/sweetheart) visited our shop a day before [for the popular deer](/gogo/tattoo/popular_deer).

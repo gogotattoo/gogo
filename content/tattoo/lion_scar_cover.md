@@ -24,5 +24,7 @@ bodypart = [
 gender = "female"
 location_city = "Shanghai"
 date = "2017-01-12T19:01:06+03:00"
-
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-lionscarcover"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-lionscarcover"
 +++

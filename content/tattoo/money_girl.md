@@ -21,4 +21,6 @@ location_country = "China"
 made_at_shop = "chushangfeng"
 design = "money_girl"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-moneygirl"
 +++

@@ -18,4 +18,7 @@ made_at_shop = "chushangfeng"
 made_date = "2017-03-06T16:10:00+08:00"
 tags = ["love", "hanzi", "simplicity", "ai"]
 title = "Hater antipode"
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-haterantipode"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-haterantipode"
 +++

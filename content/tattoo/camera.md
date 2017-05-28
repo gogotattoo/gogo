@@ -28,7 +28,9 @@ bodypart = [
   "belly",
 ]
 title = "Camera"
-
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-camera"
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-camera"
 +++
 
 <center>

@@ -29,4 +29,7 @@ gender = "female"
 location_city = "Shanghai"
 date = "2017-01-17T17:01:06+03:00"
 design = "anchored_infinity"
+[blockchain]
+steem = "tattoo/@gogo.tattoo/http-gogo-tattoo-gogo-design-tattoo-anchoredinfinity"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-design-tattoo-anchoredinfinity"
 +++

@@ -13,6 +13,7 @@ made_at_shop = "chushangfeng"
 made_date = "2017-03-31T00:00:00+08:00"
 tags = ["star", "space", "earth", "spaceman", "color"]
 title = "Mighty Cosmonaut"
-
-
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-mightycosmonaut"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-mightycosmonaut"
 +++

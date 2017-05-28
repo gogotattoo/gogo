@@ -24,4 +24,7 @@ gender = "female"
 location_country = "China"
 location_city = "Shanghai"
 previous = "wanderlust_compass"
+[blockchain]
+steem = "tattoo/@gogo.tattoo/dna-day-yana-gogo-gogo-tattoo-gogo-tattoo-doublehelix"
+golos = "tattoo/@gogo.tattoo/den-dnk-yana-gogo-gogo-tattoo-gogo-ru-tattoo-doublehelix"
 +++

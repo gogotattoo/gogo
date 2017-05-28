@@ -25,6 +25,9 @@ made_at_shop = "chushangfeng"
 made_date = "2016-12-19T14:00:26+08:00"
 duration_mins = 90
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-bluelotuscoloring"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-bluelotuscoloring"
 +++
 
 __Note: the original masterpiece is not mine; but it was a great pleasure to improve it

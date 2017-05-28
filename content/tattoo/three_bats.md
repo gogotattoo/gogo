@@ -19,6 +19,8 @@ made_at_shop = "chushangfeng"
 made_date = "2017-04-17T15:00:00+08:00"
 tags = ["black and gray", "bat", "freehand", "three"]
 title = "Three bats"
-
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-threebats"
+golos = "tattoo/@gogo.tattoo/yanv-gogo-gogo-tattoo-gogo-ru-tattoo-threebats"
 
 +++

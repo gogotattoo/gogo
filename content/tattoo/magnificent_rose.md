@@ -29,5 +29,8 @@ made_date = "2017-04-15T00:00:00+08:00"
 tags = ["black and gray", "flower", "rose", "linings"]
 title = "Magnificent rose"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-magnificentrose"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-magnificentrose"
 
 +++

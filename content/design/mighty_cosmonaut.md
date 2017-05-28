@@ -16,5 +16,4 @@ made_date = "2017-02-02T10:31:05+08:00"
 duration_mins = 60
 title = "Mighty Cosmonaut"
 tattoos = ["mighty_cosmonaut"]
-
 +++

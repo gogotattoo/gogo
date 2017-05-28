@@ -24,4 +24,7 @@ images_ipfs = [
 ]
 location_city = "Shanghai"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-lycorisradiata"
+golos = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-ru-tattoo-lycorisradiata"
 +++
