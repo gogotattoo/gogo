@@ -11,7 +11,6 @@ tags = ["color", "animal", "flower", "cover", "deer", "cloud"]
 bodypart = ["leg", "inner upper leg"]
 image_ipfs = "QmQf3qVZdJTFxDBADZBfkFhNdw8Gsa69gaZoAomoJ6VDQ7"
 images_ipfs = [
-  "QmXycoKywsUrBUN4ELqEEareJtjYq5Nf8PMwfkxVqPJecb",
   "QmZjDkKPuz21qBpMXw5tC5qnA9vskLuxCRQ2Vf8ohP1F9G",
   "QmXmPVtsY2LASXks6YzKdEWmER6EwGAYqCesjWF5oAhEqh",
   "QmRZLyprnR6kDWESuPHpUK3pkmkdnvuny9yyLkQRo7JnMm",
