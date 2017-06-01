@@ -34,4 +34,7 @@ images_ipfs = [  "QmXjHM2cxddtJjVaYhCbqM9S9EQ1S8eTvnUZbFQdry5Zkt",
   "QmXLDUq1jM3Hyggu9Sib7Yeu4XrmErBgvEJCFGSF4B21S6",
 ]
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-youngforever"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-youngforever"
 +++

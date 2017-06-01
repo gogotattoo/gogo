@@ -1,4 +1,5 @@
-
+- id: profile.fullname
+  translation: "Яна Gogo"
 - id: nav.tattoo
   translation: "纹身"
 - id: nav.design

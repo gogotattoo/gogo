@@ -1,4 +1,5 @@
-
+- id: profile.fullname
+  translation: "Яна Gogo"
 - id: contact.headline
   translation: "Моя группа (wechat):"
 - id: contact.description

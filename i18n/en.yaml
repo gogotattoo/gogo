@@ -1,3 +1,7 @@
+- id: profile.fullname
+  translation: "Yana Gogo"
+- id: profile.description
+  translation: "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
 
 - id: contact.headline
   translation: "Follow my public groups"
@@ -23,7 +27,5 @@
   translation: "Piercing"
 - id: nav.dreadlocks
   translation: "Dreadlocks"
-- id: profile.description
-  translation: "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
 - id: nav.contact
   translation: "Contact me"

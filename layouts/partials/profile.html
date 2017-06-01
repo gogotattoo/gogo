@@ -1,11 +1,14 @@
 <section id="profile" class="container">
-  <div class="row">
-    <div id="avatar" class="col-md-12 col-lg-12 center-block">
-      <a href="{{ .Site.BaseURL | relLangURL }}">
-        <img class="center-block" src="{{ .Site.BaseURL }}{{ .Site.Params.profile.avatar }}"/>
-      </a>
+  <a href="{{ .Site.BaseURL | relLangURL }}">
+    <div class="row profile-fullname">
+      <div class="col-md-12 col-lg-12">{{ .Site.Params.profile.fullname | i18n}}</div>
     </div>
-  </div>
+    <div class="row">
+      <div id="avatar" class="col-md-12 col-lg-12 center-block">
+          <img class="center-block" src="{{ .Site.BaseURL }}{{ .Site.Params.profile.avatar }}"/>
+      </div>
+    </div>
+  </a>
   <div class="row profile-header">
     <div class="col-md-12 col-lg-12">{{ .Site.Params.profile.name }}</div>
   </div>

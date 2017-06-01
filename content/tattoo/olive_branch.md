@@ -25,4 +25,7 @@ gender = "female"
 location_city = "Shanghai"
 date = "2017-01-23T17:01:06+03:00"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-olivebranch"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-olivebranch"
 +++
