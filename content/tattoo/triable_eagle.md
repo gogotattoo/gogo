@@ -10,13 +10,16 @@ bodypart = [
 style = [
   "simplicity",
 ]
-image = "triable_eagle/triable_eagle_final"
-images = ["triable_eagle/triable_eagle_pr1",
-"triable_eagle/triable_eagle_pr2",
-"triable_eagle/triable_eagle_pr3"
+image_ipfs = "QmQK8oEEWesDAgwanRk1JfEW2B732C6DuGgbnHmpTQKsqi"
+images_ipfs = [  
+  "QmY3gXDscBMjPEGN4UfRN9da41AWRanf4jqa3AwecShtrb",
+  "QmWieHFLyQTdqkKGG1SVBbraiMZZkw2iSBgjVSPjaqHjrY",
+  "QmTqkeDH6UFvMWqHqFnHnN4VvpsVLYee4SoFHG2q5sjyvT",
 ]
+
+
 location_country = "China"
-title = "Eagle"
+title = "Triable Eagle"
 made_date = "2016-11-01T22:38:26+08:00"
 tags = [
   "black and gray",
