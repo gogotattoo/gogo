@@ -24,4 +24,8 @@ images_ipfs = [
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-ru-tattoo-worldtraveller"
+steem = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-tattoo-worldtraveller"
 +++
