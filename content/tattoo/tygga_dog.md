@@ -7,10 +7,11 @@ extra = ""
 article = ""
 made_date = "2017-06-19T00:00:00+08:00"
 date = "2017-06-19T07:20:00+08:00"
-tags = ["dog", "black"]
+tags = ["dog", "black and gray", "dreamcatcher", "feather"]
 bodypart = ["leg", "thigh"]
 image_ipfs = "QmaB9Wm1YK1tshbU2wjL9zydm4xDkUFgcfvpDFZGgLEo5Z"
-images_ipfs = [  "QmXK4yYv1cMAPyJd8DFf3BgaEEuxDj9V5N3aQgTJ67e8wV",
+images_ipfs = [  
+  "QmXK4yYv1cMAPyJd8DFf3BgaEEuxDj9V5N3aQgTJ67e8wV",
   "QmStNgGQbtTcGaSLoAmM393zsYySAbjKY6182dcUJ5Qg2V",
   "QmSzjpdk22hqxTotMDoQFqm6H4oJh9hV47zxDR7Ts9aZq5",
   "QmcGeYDx7GbutsXnvuXZx5ciKc8TgvezU8aSKQkCfWQxwx",
@@ -28,7 +29,8 @@ made_at_shop = "chushangfeng"
 previous = "rose_mandala"
 
 [blockchain]
-
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-tyggadog"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-tyggadog"
 
 +++
 <center>
