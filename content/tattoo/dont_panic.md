@@ -29,3 +29,5 @@ previous = ""
 [blockchain]
 
 +++
+
+This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)
