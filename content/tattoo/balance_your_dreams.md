@@ -13,7 +13,6 @@ image_ipfs = "QmWyBKCPY3ND3YY7XhShGtufUypC3WQcYBYoHNDtiqRppg"
 images_ipfs = [
   "Qme5JCjTvUTGkj5jTkjq7BuvX8bbKXmjnn8RZ7uJNGFirX",
   "QmWeFG7WL7i9jpJYF165x5eEo6Nzq8NTXZSpSbussVkUBd",
-  "QmYFQ7BD5KAFNJL1Az846bp7t8mtUyBoX14JUNA4aFhSWm",
   "QmchY6fnCbRixsv9UARcqkTXDcdLt2C7MD1eQpWLg6B4MS",
   "QmR1eNZGtS4rrPA3gcY7sDYr51bRr4BWSWcZ2UEjLC6Fcx",
   "QmaYocq5pe4aufeWMtpe5neW64LWENZFfHhanhzUMC56oh",

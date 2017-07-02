@@ -1,5 +1,5 @@
 +++
-Link = "http://gogo.tattoo/gogo/tattoo/interplanetetary_freedom"
+Link = "http://gogo.tattoo/gogo/tattoo/interplanetary_freedom"
 title = "Interplanetary freedom"
 duration_min = 120
 gender = "female"
@@ -24,8 +24,8 @@ previous = "young_forever"
 
 
 [blockchain]
-golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-interplanetetaryfreedom"
-steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-interplanetetaryfreedom"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-interplanetaryfreedom"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-interplanetaryfreedom"
 
 
 +++
