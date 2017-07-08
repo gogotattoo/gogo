@@ -26,5 +26,6 @@ made_at_shop = "chushangfeng"
 previous = "world_traveller"
 
 [blockchain]
-
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-balanceyourdreams"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-balanceyourdreams"
 +++
