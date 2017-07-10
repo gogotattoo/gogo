@@ -29,6 +29,9 @@ images_ipfs = [
 ]
 location_country = "China"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-ru-henna-humanchip"
+steem = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-henna-humanchip"
 +++
 
 <center>
