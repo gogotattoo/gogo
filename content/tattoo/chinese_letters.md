@@ -14,5 +14,8 @@ images_ipfs = [  "QmT99AqNmWCJAT8JjcNzTirWhh4R8fP17h66qhgAX8PgZ5",
   "QmPtCe8JJNawTnrwFHh1kwX2kNjZ8f8gEx6JxLePuL359i",
 ]
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-tattoo-chineseletters"
+golos = "tattoo/@gogo.tattoo/gogo-gogo-tattoo-gogo-ru-tattoo-chineseletters"
 
 +++
