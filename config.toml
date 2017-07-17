@@ -23,8 +23,8 @@ DefaultContentLanguageInSubdir = "false"
 favicon = "favicon.ico"
 
 [params.version]
-  name = "0.0.9-alpha"
-  code = 9
+  name = "0.0.11-alpha"
+  code = 11
 
 [taxonomies]
   tag = "tags"
