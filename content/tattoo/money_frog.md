@@ -26,4 +26,7 @@ date = "2016-12-18T19:26:07+08:00"
 image_ipfs = "QmXqBGdkCzxb5kgxo9JiCnbJMHyhHZdxfwMZXpYf23Hud5"
 made_at_shop = ""
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-moneyfrog"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-moneyfrog"
 +++
