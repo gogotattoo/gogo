@@ -1,6 +1,6 @@
 +++
 Link = "http://gogo.tattoo/gogo/design/mountain_falls"
-title = "Mountain falls"
+title = "Mountains fall"
 duration_min = 12
 gender = "female"
 extra = ""
@@ -15,6 +15,7 @@ location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
 previous = ""
+tattoos = ["mount_mogan"]
 
 [blockchain]
 

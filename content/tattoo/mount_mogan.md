@@ -18,7 +18,7 @@ images_ipfs = [
   "QmPpeVWorT3ebdUKoxHHw8GnADDww1iEbA4ABRTgGs7Vye",
   "QmbhEcrUEb6SC2mZv5iQv1W4pV5U2zoMB1NbjaPagDcg33",
 ]
-
+design = "mountains_fall"
 videos_ipfs = []
 location_city = "Shanghai"
 location_country = "China"
