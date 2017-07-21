@@ -24,6 +24,10 @@ image_ipfs = "QmbtM7gduTdFzhw1JwX9huToEAWPtU1LfCAR3Rv8CvKn4t"
 location_country = "China"
 date = "2016-12-24T10:30:46+08:00"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-staytrue"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-staytrue"
 +++
-
+<center>
 Stay True and Simple
+</center>
