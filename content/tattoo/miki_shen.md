@@ -24,6 +24,7 @@ videos_ipfs = ["QmRQNf9w59a71BwMp5EhNwfGPoQVALPueRdxzq8DLttJYy",
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+design = "miki_lion"
 previous = ""
 
 [blockchain]

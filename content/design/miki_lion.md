@@ -14,6 +14,7 @@ images_ipfs = ["QmS6R1wz4r9c4CZ1jgBWdgTfAiWS7RCYKAWRKHpJd7P1FR", "QmfHRqJ1RUHRkE
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+tattoos = ["miki_shen"]
 previous = ""
 
 
