@@ -15,6 +15,7 @@ videos_ipfs = []
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+tattoos = ["birthday_geometric"]
 previous = ""
 
 +++
