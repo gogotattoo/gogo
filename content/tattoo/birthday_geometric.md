@@ -27,5 +27,7 @@ design = "birthday_geometric"
 previous = ""
 
 [blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-birthdaygeometric"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-birthdaygeometric"
 
 +++
