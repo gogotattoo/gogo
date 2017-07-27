@@ -38,6 +38,16 @@
   													</figure>
   												</div>
 											{{ end }}
+                      {{ range .Params.videos_ipfs }}
+  	              				<div class="pin">
+  													<figure>
+                              <video width="260" class="tattoo-video" loop>
+                                <source src="https://gateway.ipfs.io/ipfs/{{ . }}" type="video/mp4">
+                              Your browser does not support the video tag.
+                              </video>
+  													</figure>
+  												</div>
+											{{ end }}
 			              	<div class="pin">
 												<figure>
                           {{ if .Params.image_ipfs }}
