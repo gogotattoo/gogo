@@ -7,9 +7,8 @@ extra = ""
 bodypart = [
   "arm",
 ]
-image = "tiger_arm/tiger_arm_final"
-images = ["tiger_arm/tiger_arm_pr1"
-]
+image_ipfs = "QmcNo45Yzusnxsyyznnh6GEgbjZQzZwNhHVGKYnhEEFzLq"
+images_ipfs = ["QmSFyRr7eXtt36P4Q3j6hvK74ytgcvkoYtWE1S6RpMpGdZ"]
 location_city = "Shanghai"
 location_country = "China"
 style = [
@@ -20,5 +19,8 @@ tags = [
   "color",
   "tiger",
 ]
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-tigerarm"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-tigerarm"
 
 +++
