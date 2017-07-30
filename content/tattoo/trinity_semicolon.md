@@ -11,6 +11,9 @@ tags = ["color", "trinity", "hope", "symbol"]
 bodypart = ["ribs"]
 image_ipfs = "QmYD4tHnCr47sdQr4VT4uBz76svYSmVgvtYSRB3QjWR7t7"
 images_ipfs = ["QmdTKNfXD7e2tY1G7R4RUNLup8ZVrraNEVrH3GhZRu3RAw",
+"QmcdxS1vZ4LsTeiQiCfNNopTDqhZuvBS9QZWvazBxmumMt",
+"QmNxSy3xGnBQmNsdg33ZrtPL7HRbZeZTkuKad5fkF543iE",
+"QmVmuz56JT2B4JN4DDir4kN8UGpjC4MYTcYyTB7zguuyjR",
 "QmYefsZCB8M8Feb5ZscJK8yJxam5nnZJfD7vGoT5LmbvKr",
 "QmR7vATNepGWBHvzBUqmmTSjDsvgzCsrq1oqpSfmmC9WZj"]
 videos_ipfs = ["QmdBW5xuxLn3veJKssZPVjfs8RZBTbfwqRwJXgpKCXgb5a",
