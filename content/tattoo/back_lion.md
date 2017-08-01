@@ -17,12 +17,14 @@ tags = [
   "black and gray",
   "animal",
 ]
-images = ["back_lion/back_lion_pr1",
-"back_lion/back_lion_pr2",
-"back_lion/back_lion_pr3",
-"back_lion/back_lion_pr4",
-]
-image = "back_lion/back_lion_final"
+image_ipfs = "QmYioNt3d7r5xBgo6p9mHZWkkjLH1JKvdeR5oYX9PrRz4H"
+images_ipfs = ["QmcgaLJ8LMoze6kHvtsvxibKvH7a9DSpVXEe3wUggYaCfV",
+"QmYhcGjDaTNTMq4qwsYqBT1oXqkdWAK8sPAs7DnSjmyoxy",
+"QmQP5BbGXevVs7A2wgpLXrm8yYLtDxYr8iHKNgBUJqt1Ez",
+"QmTQ5HUeigTTmj4rkswZCcQgg2JrMiCYqngtXwHFXPVBHC"]
 title = "Lion cover"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-backlion"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-backlion"
 +++
