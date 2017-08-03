@@ -20,6 +20,7 @@ images_ipfs = [
   "QmXyiWXsXGVseJ1J7HtoQ1J7uGVpvdTDd9HTmUKAdkDgm6"
  ]
 videos_ipfs = ["QmUCmK41GXyTRbG178NQBquhURHs1PACLaLiZ5kE8QByjc", "QmesQfhLTmDmS1CPn9sTttUFMnVmUcrUU7bDptVkNRwcKr", "QmZPrE1PDhZxmM3LVku9ZzV2JXBdpJCKvw4TQ9qwVSm5Wm", "QmWHUoJcWMLd6sNDpd13YP15q3UyVCMVTVL7trQDGA86qP",
+"QmSQEfPBvE3nGbbwWdx5JNWSY6Fs9cKbPjQGE78xmrJxcz",
 "QmcexKFFjqzgMy8QX82T52515yuTgE1u3rFmx61z3qA5vM"]
 location_city = "Shanghai"
 location_country = "China"
