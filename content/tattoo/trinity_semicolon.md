@@ -25,5 +25,7 @@ made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-trinitysemicolon"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-trinitysemicolon"
 
 +++
