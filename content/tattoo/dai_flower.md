@@ -20,12 +20,6 @@ date = "2017-02-12T17:17:04+08:00"
 tags = [
   "color",
   "flower",
-  "koi",
-  "lotus",
-  "stars",
-  "butterfly",
-  "skull",
-  "cat",
   "colorful",
   "simplicity",
   "crazy",
@@ -33,4 +27,7 @@ tags = [
 ]
 title = "Dai flower"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-daiflower"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-daiflower"
 +++
