@@ -17,4 +17,8 @@ made_date = "2017-04-10T15:00:00+08:00"
 tags = ["maori", "bike", "circle", "detail", "chain"]
 title = "Maori bike chain"
 previous = "mighty_cosmonaut"
+
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-maoribikechain"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-maoribikechain"
 +++

@@ -23,6 +23,8 @@ made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-tinybulldog"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-tinybulldog"
 +++
 <center>
 Comes with a small bonus in a shape of an elephant  :)

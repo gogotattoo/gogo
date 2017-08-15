@@ -19,4 +19,7 @@ made_date = "2017-04-06T14:00:00+08:00"
 tags = ["text", "letters", "font"]
 title = "Don't hesitate"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-donthesitate"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-donthesitate"
 +++

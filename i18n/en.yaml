@@ -1,8 +1,14 @@
 - id: profile.fullname
   translation: "Yana Gogo"
 - id: profile.description
-  translation: "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
-
+  translation: "I started working in the area of tattoos when I was 14, which is also when I made my first tattoo. So far I've had the chance to learn from masters in Singapore, Thailand, The Phillipines, China, Russia, and other cool places throughout the world. Check out some of my previous works, and let me know if you want to start a cool new tattoo project with me."
+- id: profile.aboutme
+  translation: "Since the age of 14, I've had the pleasure to learn from masters in Singapore,
+  Thailand, The Phillipines, China, Russia, and other cool places around the world;
+  which is also when I made my first tattoo.
+  I've spent my entire teenage years in an old tattoo shop in Singapore.
+  I have seen so many destinies change by tattoos. I think the value of a tattoo is in its meaning.
+  Every tattoo will be an important project for us. Becaust I impact your life, it is my responsibility."
 - id: contact.headline
   translation: "Follow my public groups"
 - id: contact.description
