@@ -2,7 +2,7 @@
 Link = "http://gogo.tattoo/gogo/tattoo/brave_scorpion"
 title = "Brave scorpion"
 duration_min = 120
-gender = "female"
+gender = "male"
 extra = ""
 article = ""
 made_date = "2017-08-19T00:00:00+08:00"
