@@ -31,6 +31,9 @@ bodypart = [
 image_ipfs = "QmUKyHQq3EBuSZi92ZshQpPDzRC9HuHoLfLkhMMY87rE3Y"
 location_city = "Shanghai"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-skullonchest"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-skullonchest"
 +++
 
 The skull was designed by his girlfriend, who [got a tattoo](/gogo/tattoo/rose_mandala) from us less than two weeks ago.
