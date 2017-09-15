@@ -16,6 +16,7 @@ tags = [
   "linings",
   "geek"
 ]
+made_date = "2017-02-05T12:51:26+08:00"
 date = "2017-02-05T12:51:26+08:00"
 title = "Humanbot evolution"
 possible_bodypart = [
@@ -28,5 +29,9 @@ possible_bodypart = [
   "leg",
   "forehead",
 ]
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-design-humanbotevolution"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-design-humanbotevolutio"
+
 
 +++

@@ -23,4 +23,5 @@ design = "money_girl"
 
 [blockchain]
 steem = "tattoo/@gogo.tattoo/gogo-tattoo-gogo-tattoo-design-moneygirl"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-moneygirl"
 +++

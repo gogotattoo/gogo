@@ -19,7 +19,7 @@ videos_ipfs = ["QmZLwp6cBdmyRougNieHHrZ5GC5yQMnVA3qppELmikf7t8",
 "QmTZNafJRtvxMVgLzpjwp7dcJa5fGBk7DrPXDkkbpKyqkx",
 "QmaSpbBT11EnTqHU7HQtPs77qFcdK2Vd8ThzaLBKaTzfG4"]
 location_city = "Shanghai"
-location_country = " China"
+location_country = "China"
 made_at_shop = "chushangfeng"
 previous = ""
 

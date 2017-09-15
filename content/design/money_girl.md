@@ -20,5 +20,7 @@ location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
 tattoos = ["money_girl"]
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-design-moneygirl"
 
 +++
