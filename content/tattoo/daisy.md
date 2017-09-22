@@ -1,5 +1,5 @@
 +++
-made_at_shop = ""
+made_at_shop = "animal_tattoo"
 location_city = "Shanghai"
 extra = ""
 tags = [
@@ -27,7 +27,4 @@ style = [
 gender = "male"
 image_ipfs = "QmYB1x6z9MdzgPio5FZyR69zicHLwXj5afZzqZqVL4E2Wa"
 
-[blockchain]
-steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-daisy"
-golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-daisy"
 +++
