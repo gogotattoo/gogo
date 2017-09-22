@@ -27,7 +27,9 @@ made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-dontpanic"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-dontpanic"
 
 +++
 
-This work shall be published to the media-blockchains on September 18, 2017. The owner knows why ;)
+As promised, this work was published to the media-blockchains on September 18, 2017. The owner knows why ;)
