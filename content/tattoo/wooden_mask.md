@@ -15,11 +15,11 @@ images_ipfs = [
 "QmWeddaCRsG6Rpe2tfi82DVnVT4AWq6nmniW4tAGh9TED1",
 "QmTsZBBcPNv4ZgXRZBTVDQzofLMM1W4EpvfvDySmc5DVnt",
 "QmeR8JNMSBXPUuq5HFnGa5FhnW9fczF9P2xZ2iLBvF7SoM",
-"Qmduh95UBuhbUTVpqkLzSMjrDKfMHYsLouG2v6Rcknijp8",
 "QmTzbtmbHWtXqJMzPMRrbGuKfd99Rd4ju3ZBzTBuVSaKJ3",
   "QmV8YGX6KYvx8n1KKSiJ83LWLbmhTn4Bi32tMbewoMmFdW",
   "QmU41hGixS3fLgoP2KuHEdp96o7womMF4ijav4pipxH1HV",
   "Qmevk1QjT58wtFm9Vc8ZQtgj7JhTWrq1cvGgdFhuAYUCD8",
+  "Qmduh95UBuhbUTVpqkLzSMjrDKfMHYsLouG2v6Rcknijp8",
 
 ]
 videos_ipfs = [  "QmdX3GByWrLsnFdzHvm7dy3bxtEH4JhNwvsBjfbqMzs2XQ",
