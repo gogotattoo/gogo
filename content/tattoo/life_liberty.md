@@ -1,6 +1,6 @@
 +++
 Link = "http://gogo.tattoo/gogo/tattoo/life_liberty"
-title = "Life liberty"
+title = "Life & liberty"
 duration_min = 120
 gender = "male"
 extra = ""
