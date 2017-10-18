@@ -22,4 +22,8 @@ images_ipfs = [  "QmYKhK622Rz98G5iBYLS8q93zKQSWC7rzny63nfjttjjav",
 location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
+
+[blockchain]
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-nancyjellyfish"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-nancyjellyfish"
 +++
