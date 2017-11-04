@@ -32,4 +32,8 @@ image_ipfs = "QmZiRPPXfY5puWEbjxYJbC5BPo4NxBqiqg8bXBHbU6enCq"
 location_city = "Shanghai"
 made_date = "2017-01-21T23:00:39+08:00"
 design = "pans_compass"
+
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-panscompass"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-panscompass"
 +++

@@ -10,6 +10,7 @@ tags = [
   "geometry"
 ]
 date = "2017-01-16T09:11:24+08:00"
+made_date = "2017-01-21T23:00:39+08:00"
 extra = ""
 possible_bodypart = [
   "feet",
@@ -27,4 +28,8 @@ images_ipfs = [
 ]
 title = "Pan's compass"
 tattoos = ["pans_compass"]
+
+[blockchain]
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-panscompass"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-panscompass"
 +++
