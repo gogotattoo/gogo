@@ -19,4 +19,7 @@ made_date = "2017-04-15T15:00:00+08:00"
 tags = ["bridge", "cool"]
 title = "Cool bridge"
 
+[blockchain]
+steem = "piercing/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-piercing-coolbridge"
+golos = "piercing/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-piercing-coolbridge"
 +++
