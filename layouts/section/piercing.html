@@ -19,6 +19,7 @@
                       <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
                     {{ end }}
                     <figcaption>{{ .Title }}</figcaption>
+										{{ partial "blockchain_item.html" . }}
                   </figure>
                 </a>
             </div>
