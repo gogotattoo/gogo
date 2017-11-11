@@ -1,6 +1,6 @@
 +++
-Link = "http://gogo.tattoo/gogo/tattoo/deer_fountain"
-title = "Deer fountain"
+Link = "http://gogo.tattoo/gogo/tattoo/deer_spring"
+title = "Deer near a spring"
 duration_min = 600
 gender = "male"
 extra = ""
@@ -23,11 +23,11 @@ videos_ipfs = [  "QmccEj5jKVwUSyxrd1Xtjh4q3aVd4nPFqAaBDUseb8tMRS",
   "QmP7QasgMcsbykkPMg4N5tz1VFtex6zDAN54PudDmBi9Yx"
 ]
 location_city = "Shanghai"
-location_country = " China"
+location_country = "China"
 made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
-golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-deerfountain"
-steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-deerfountain"
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-deerspring"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-deerspring"
 +++
