@@ -19,4 +19,7 @@ location_city = "Shanghai"
 location_country = "China"
 made_at_shop = "chushangfeng"
 
+[blockchain]
+golos = "piercing/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-piercing-flywitheagle"
+steem = "piercing/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-piercing-flywitheagle"
 +++
