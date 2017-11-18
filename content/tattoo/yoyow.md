@@ -27,12 +27,12 @@ videos_ipfs = [  "QmbrrUzxL8P3cQ6NdZVkMpatBA5syH4XmUHNtWEiykGkoz",
 ]
 
 location_city = "Shanghai"
-location_country = " China"
+location_country = "China"
 made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
-  steem = ""
-  golos = ""
+golos = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-ru-tattoo-yoyow"
+steem = "tattoo/@gogo.tattoo/yana-gogo-gogo-tattoo-gogo-tattoo-yoyow"
 
 +++
