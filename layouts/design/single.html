@@ -9,7 +9,7 @@
 							 <main role="main">
 								 <h1 class="tattoo-title" itemprop="headline">{{ .Title }}</h1>
                  {{ if .Params.tattoos }}
-                  <a href="{{ $.Site.BaseURL }}tattoo/{{ index .Params.tattoos 0 }}"><h2 class="design-link">See it as a finished work here.</h2></a>
+                  <a href="{{ $.Site.BaseURL }}/tattoo/{{ index .Params.tattoos 0 }}"><h2 class="design-link">See it as a finished work here.</h2></a>
                  {{ end }}
 								 <section itemprop="entry-text">
 									 {{ .Content }}
@@ -22,7 +22,7 @@
 														<figure>
 															<img class="tattoo-image"
                                 onclick="zoomImage()"
-																src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg"
+																src="{{ $.Site.BaseURL }}/images/tattoo/{{ . }}.jpg"
 																alt="{{ $.Title }}">
 														</figure>
 													</div>
@@ -53,7 +53,7 @@
                           {{ if .Params.image_ipfs }}
                             <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
                           {{ else }}
-                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
+                            <img src="{{ $.Site.BaseURL }}/images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image" onclick="zoomImage()">
                           {{ end }}
 												</figure>
 											</div>

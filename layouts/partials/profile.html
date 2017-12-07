@@ -5,7 +5,7 @@
     </div>
     <div class="row">
       <div id="avatar" class="col-md-12 col-lg-12 center-block">
-          <img class="center-block" src="{{ .Site.BaseURL }}{{ .Site.Params.profile.avatar }}"/>
+          <img class="center-block" src="{{ .Site.Params.profile.avatar | absURL }}"/>
       </div>
     </div>
   </a>

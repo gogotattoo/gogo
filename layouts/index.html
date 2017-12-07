@@ -18,9 +18,9 @@
                           {{ if .Params.image_ipfs }}
                             <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image pin-img fadeIn"/>
                           {{ else if .Params.image }}
-										        <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image pin-img">
+										        <img src="{{ $.Site.BaseURL }}/images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image pin-img">
                           {{ else }}
-                            <img src="{{ $.Site.BaseURL }}images/doge.png" alt="Please upload photos" class="tattoo-image pin-img">
+                            <img src="{{ $.Site.BaseURL }}/images/doge.png" alt="Please upload photos" class="tattoo-image pin-img">
                           {{ end }}
                           <figcaption>{{ .Title }}</figcaption>
                           {{ partial "blockchain_item.html" . }}
